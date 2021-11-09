@@ -1,1 +1,1 @@
-# The-Final-Project_F-PALS
+# F-PALS: The Final Project
