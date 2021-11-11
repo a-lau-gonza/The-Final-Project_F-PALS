@@ -31,10 +31,10 @@
 * play by play from official NFL feeds
 
 ## Segment 1: Roles
-__*SQUARE*__: Andrew
-__*TRIANGLE*__:
-__*CIRCLE*__:
-__*X*__:
+* __*SQUARE*__: Andrew
+* __*TRIANGLE*__:
+* __*CIRCLE*__:
+* __*X*__:
 
 ## Segment 1: Notes
 * using google colab, for multiple people to work on the code if necessary
