@@ -1,4 +1,5 @@
 # F-PALS: The Final Project
+Our final project will be based on a machine learning algorithm for the NFL to find out: who will make it into the playoffs?
 
 ## Communication Protocols
 * Meeting Times: 6:00PM - Whenever
