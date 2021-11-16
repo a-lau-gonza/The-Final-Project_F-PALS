@@ -1,5 +1,5 @@
 # F-PALS: The Final Project
-Our final project will be based on a machine learning algorithm for the NFL to find out: who will make it into the playoffs?
+Our final project will be based on a machine learning algorithm for the F1 to find out: Who will win the season for drivers or constructors?
 
 ## Communication Protocols
 * Meeting Times: 6:00PM - Whenever
@@ -7,44 +7,14 @@ Our final project will be based on a machine learning algorithm for the NFL to f
   * Use Zoom for audio and video meetings
 
 ## Data Links
-[Peter: Github NFL R Studio DataSet 1999 - Present](http://www.habitatring.com/games.csv)
-* season, week, location, away_team, away_score, home_team, home_score, result
-* Peter is using
+[F1 Stats](https://www.racing-reference.info/f1-series/)
 
-[Andrew: NFL Fast R 1999 - Present](https://www.nflfastr.com/)
-* play by play data for scraping
-* Peter is using
+[F1 Stats](https://www.racing-statistics.com/en)
 
-[Sean: NFL Pro Football Reference 1920 - Present](https://www.pro-football-reference.com/years/)
-* A large variety of data
-* Sean is using
+[F1 API](http://ergast.com/mrd/)
 
-[Freddie: NFL Scores and Betting Data](https://www.kaggle.com/tobycrabtree/nfl-scores-and-betting-data)
-* As noted above
-* Freddie is using
+[F1 Stats](https://www.kaggle.com/rohanrao/formula-1-world-championship-1950-2020)
 
-[Freddie: Madden NFL Player Ratings](https://www.kaggle.com/dtrade84/madden-21-player-ratings)
-* Possible private data that would have been shared with Madden that may be useful
-* Freddie is using
-
-[Andrew: Simpler Data](https://www.statista.com/topics/963/national-football-league/#dossierKeyfigures)
-* Data related to fan interactions and other things
-* Andrew is using
-
-[Andrew: Play by play history](https://github.com/maksimhorowitz/nflscrapR)
-* play by play and game level analysis
-* Lanisha is using
-
-[Andrew: Historic data](https://github.com/derek-adair/nflgame)
-* play by play from official NFL feeds
-* Free user
-
-[Andrew: NFL more play by play](http://nflsavant.com/about.php)
-* possibly the most up to date data available
-* Andrew is using
-
-[Andrew: Sportsdata IO](https://sportsdata.io/developers/data-dictionary/nfl)
-* Sean is using
 
 ## Segment 1: Roles
 __*SQUARE*__: Andrew
