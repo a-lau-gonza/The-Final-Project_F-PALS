@@ -26,3 +26,4 @@ __*X*__:
 * using google colab, for multiple people to work on the code if necessary
 * database? will look into how much data is already out there and how to organize the data
 * SQL and Postgres may be useful
+* Initial relevant variables: __drivers, constructors, DNFs__, __regulation (seasons of similar rules, *with this one we could focus entirely on 2017 - present*)__, tracks/track history with drivers/constructors, __weather (though most of the time it's dry and typically weather is the big shake up for significant differences from predicitions)__
