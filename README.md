@@ -15,6 +15,8 @@ Our final project will be based on a machine learning algorithm for the F1 to fi
 
 [F1 Stats](https://www.kaggle.com/rohanrao/formula-1-world-championship-1950-2020)
 
+[F1 Data from the API linked above](https://documenter.getpostman.com/view/11586746/SztEa7bL)
+
 
 ## Segment 1: Roles
 * __*SQUARE*__: Andrew
@@ -27,3 +29,4 @@ Our final project will be based on a machine learning algorithm for the F1 to fi
 * database? will look into how much data is already out there and how to organize the data
 * SQL and Postgres may be useful
 * Initial relevant variables: __drivers, constructors, DNFs__, __regulation (seasons of similar rules, *with this one we could focus entirely on 2017 - present*)__, tracks/track history with drivers/constructors, __weather (though most of the time it's dry and typically weather is the big shake up for significant differences from predicitions)__
+* *Technologies we want to use*: Google Colab, Tableau, Python, Machine Learning, matplotlib, Excel (using .csv), possibly use scraping, SQL/Postgres
