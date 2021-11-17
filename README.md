@@ -1,6 +1,8 @@
 # F-PALS: The Final Project
 Selected Topic: __Profitibility of Movies Through Machine Learning__
+
 Our final project will be based on a machine learning algorithm for __*MOVIES*__ and if we can predict the earnings for movies past and future!
+
 Reasons that we picked __*MOVIES*__: Movies are a cornerstone of culture worldwide as well as being one of the most lucrative businesses in media. They are a subject in which all of us within the group could relate with the sheer volume and appeal of which, there's a movie for everyone! With the data available to us to collect, there was plenty especially when it came to box office success. For our final project we wanted to create a machine learning algorithm to predict how successful a movie would become on release as well as potential losses in profits due to a flop. 
 Along with the flops and successes, we hope to discover the trends in movie production to find out how future movies will perform based on those variables tested and trained for.
 
