@@ -3,7 +3,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 .DS_Store
-API_Key.ipynb
+API_Key.py
 # C extensions
 *.so
 
