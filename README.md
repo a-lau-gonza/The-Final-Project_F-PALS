@@ -25,8 +25,6 @@ Along with the flops and successes, we hope to discover the trends in movie prod
 
 [Movie API](https://www.themoviedb.org/documentation/api)
 
-[F1 Data from the API linked above](https://documenter.getpostman.com/view/11586746/SztEa7bL)
-
 
 ## Segment 1: Roles
 * __*SQUARE*__: Andrew
