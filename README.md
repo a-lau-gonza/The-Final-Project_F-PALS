@@ -11,6 +11,7 @@ Along with the flops and successes, we hope to discover the trends in movie prod
   * Using Slack to figure out what specific days to meet up for working together
   * Use Zoom for audio and video meetings
   * 11/15: 6:30PM meetup on Zoom
+  * During class times
 
 ## Data Links
 [13 Best Movie Data Sets For Machine Learning Projects](https://imerit.net/blog/13-best-movie-data-sets-for-machine-learning-projects-all-pbm/)
@@ -37,3 +38,4 @@ Along with the flops and successes, we hope to discover the trends in movie prod
 * using google colab, for multiple people to work on the code if necessary
 * database? will look into how much data is already out there and how to organize the data
 * SQL and Postgres may be useful
+* variables: actor/popularity_score, actor_id, director, director_id, studio, studio_id, producer, producer_id, budget, genre_id, genre, release date (encoded), release month (encoded), popularity, vote_avg, language, title, title_id, imdb_id, revenue
