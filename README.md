@@ -12,6 +12,9 @@ Along with the flops and successes, we hope to discover the trends in movie prod
   * Use Zoom for audio and video meetings
   * 11/15: 6:30PM meetup on Zoom
   * During class times
+  * 11/18: 6:30PM
+  * 11/20 - 11/21: 6:30PM
+  * 11/23: 6:30PM
 
 ## Data Links
 [13 Best Movie Data Sets For Machine Learning Projects](https://imerit.net/blog/13-best-movie-data-sets-for-machine-learning-projects-all-pbm/)
