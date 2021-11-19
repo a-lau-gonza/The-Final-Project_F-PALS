@@ -46,3 +46,4 @@ Along with the flops and successes, we hope to discover the trends in movie prod
   * famous_actors: character, gender, actor_id, actor_name (name), actor_popularity, movie_id
   * famous_directors: gender, director_id, director_name (name), director_popularity, movie_id
   * famous_studios: studio_id, movie_id, studio_name, origin_country
+  * movies: movie_id, movie_title, budget, revenue, release_date, vote_average, movie_popularity, original_language, genre, genre_id
