@@ -44,8 +44,8 @@ Along with the flops and successes, we hope to discover the trends in movie prod
 * SQL and Postgres may be useful
 * variables: actor/popularity_score, actor_id, director, director_id, studio, studio_id, producer, producer_id, budget, genre_id, genre, release date (encoded), release month (encoded), popularity, vote_avg, language, title, title_id, imdb_id, revenue
 * official variables: 
-  * famous_actors: character, gender, actor_id, actor_name (name), actor_popularity, movie_id
-  * famous_directors: gender, director_id, director_name (name), director_popularity, movie_id
+  * famous_actors: character, actor_gender, actor_id, actor_name (name), actor_popularity, movie_id
+  * famous_directors: director_gender, director_id, director_name (name), director_popularity, movie_id
   * famous_studios: studio_id, movie_id, studio_name, origin_country
   * movies: movie_id, movie_title, budget, revenue, release_date, vote_average, movie_popularity, original_language, genre, genre_id
 
