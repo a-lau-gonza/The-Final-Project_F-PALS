@@ -13,6 +13,7 @@ Along with the flops and successes, we hope to discover the trends in movie prod
   * 11/15: 6:30PM meetup on Zoom
   * During class times
   * 11/18: 6:30PM
+  * 11/19: 6:30PM
   * 11/20 - 11/21: 6:30PM
   * 11/23: 6:30PM
 
