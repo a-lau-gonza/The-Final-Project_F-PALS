@@ -34,8 +34,8 @@ Along with the flops and successes, we hope to discover the trends in movie prod
 ## Segment 1: Roles
 * __*SQUARE*__: Andrew
 * __*TRIANGLE*__: Freddie
-* __*CIRCLE*__: Sean, Peter
-* __*X*__: Lanisha
+* __*CIRCLE*__: Sean, Lanisha
+* __*X*__: Peter
 
 
 ## Segment 1: Notes
