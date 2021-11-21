@@ -99,6 +99,8 @@ studio_id,studio_name,origin_country,movie_id
 8000.0,Broken Road Productions,US,460465
 12.0,New Line Cinema,US,460465
 2.0,Walt Disney Pictures,US,337404
+174.0,Warner Bros. Pictures,US,399566
+923.0,Legendary Pictures,US,399566
 34.0,Sony Pictures,US,425909
 5.0,Columbia Pictures,US,425909
 13240.0,Bron Studios,CA,425909
@@ -109,8 +111,6 @@ studio_id,studio_name,origin_country,movie_id
 2900.0,Toff Guy Films,GB,637649
 1632.0,Lionsgate,US,637649
 141391.0,CAA Media Finance,US,637649
-174.0,Warner Bros. Pictures,US,399566
-923.0,Legendary Pictures,US,399566
 420.0,Marvel Studios,US,299536
 33.0,Universal Pictures,US,529203
 521.0,DreamWorks Animation,US,529203
