@@ -10,7 +10,10 @@ RENAME gender TO director_gender;
 ALTER TABLE director
 RENAME name TO director_name;
 
-select * from actor;
+ALTER TABLE director
+RENAME actor_popularity TO director_popularity;
+
+select * from director;
 
 --Create Meta Table from all the table that will be used exported for machine learning.
 CREATE TABLE Meta AS

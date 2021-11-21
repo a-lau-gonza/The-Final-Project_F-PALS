@@ -26,7 +26,7 @@ CREATE TABLE director (
     name VARCHAR(40) NOT NULL,
     director_id FLOAT8,
 	gender FLOAT8,
-	actor_popularity FLOAT8,
+	director_popularity FLOAT8,
 	movie_id INT NOT NULL,
     FOREIGN KEY (movie_id) REFERENCES Movie_Data (movie_id)
 );
