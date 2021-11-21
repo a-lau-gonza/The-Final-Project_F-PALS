@@ -1,0 +1,443 @@
+name,actor_id,gender,character,actor_popularity,movie_id
+Simu Liu,1489211.0,2.0,Shaun / Shang-Chi,29.914,566525
+Tony Leung Chiu-wai,1337.0,2.0,Xu Wenwu,44.166,566525
+Awkwafina,1625558.0,1.0,Katy Chen,45.392,566525
+Meng'er Zhang,2979464.0,1.0,Xu Xialing,21.879,566525
+Fala Chen,123701.0,1.0,Ying Li,10.809,566525
+Michelle Yeoh,1620.0,1.0,Ying Nan,18.753,566525
+Yuen Wah,57609.0,2.0,Master Guang Bo,16.029,566525
+Ben Kingsley,2282.0,2.0,Trevor Slattery,12.636,566525
+Benedict Wong,30082.0,2.0,Wong,19.47,566525
+Tim Roth,3129.0,2.0,Emil Blonsky / Abomination (voice) (uncredited),15.86,566525
+Brie Larson,60073.0,1.0,Carol Danvers / Captain Marvel (uncredited),14.968,566525
+Daniel Craig,8784.0,2.0,James Bond,34.905,370172
+Rami Malek,17838.0,2.0,Lyutsifer Safin,28.014,370172
+Léa Seydoux,121529.0,1.0,Dr. Madeleine Swann,31.535,370172
+Ralph Fiennes,5469.0,2.0,M,12.781,370172
+Ben Whishaw,17064.0,2.0,Q,10.924,370172
+Naomie Harris,2038.0,1.0,Eve Moneypenny,15.81,370172
+Jeffrey Wright,2954.0,2.0,Felix Leiter,15.967,370172
+Christoph Waltz,27319.0,2.0,Ernst Stavro Blofeld,11.092,370172
+Ana de Armas,224513.0,1.0,Paloma,39.365,370172
+Tom Hardy,2524.0,2.0,Eddie Brock / Venom,45.626,580489
+Woody Harrelson,57755.0,2.0,Cletus Kasady / Carnage,26.791,580489
+Michelle Williams,1812.0,1.0,Anne Weying,10.796,580489
+Naomie Harris,2038.0,1.0,Frances Louise Barrison / Shriek,15.81,580489
+J.K. Simmons,18999.0,2.0,J. Jonah Jameson (archive footage) (uncredited),18.291,580489
+Tom Holland,1136406.0,2.0,Peter Parker / Spider-Man (archive footage) (uncredited),55.46,580489
+Tom Hanks,31.0,2.0,Finch,23.338,522402
+Dwayne Johnson,18918.0,2.0,John Hartley,43.865,512195
+Ryan Reynolds,10859.0,2.0,Nolan Booth,64.439,512195
+Gal Gadot,90633.0,1.0,Sarah Black / The Bishop,45.521,512195
+Ritu Arya,1742596.0,1.0,Inspector Urvashi Das,94.284,512195
+Darby Camp,1696017.0,1.0,Emily Elizabeth,10.108,585245
+Jack Whitehall,212285.0,2.0,Uncle Casey,12.029,585245
+Bruce Willis,62.0,2.0,James Malone,23.272,763164
+Lochlyn Munro,58058.0,2.0,Lyle,11.081,763164
+Gemma Chan,97576.0,1.0,Sersi,20.987,524434
+Richard Madden,512991.0,2.0,Ikaris,14.117,524434
+Angelina Jolie,11701.0,1.0,Thena,19.177,524434
+Barry Keoghan,1290466.0,2.0,Druig,11.484,524434
+Lauren Ridloff,2287101.0,1.0,Makkari,12.438,524434
+Lia McHugh,1791619.0,1.0,Sprite,17.393,524434
+Ma Dong-seok,1024395.0,2.0,Gilgamesh,10.56,524434
+Salma Hayek,3136.0,1.0,Ajak,11.887,524434
+Bill Skarsgård,137905.0,2.0,Kro (voice),18.256,524434
+Mahershala Ali,932967.0,2.0,Eric Brooks / Blade (voice) (uncredited),11.781,524434
+Josephine Langford,1753914.0,1.0,Tessa Young,20.743,744275
+Hero Fiennes Tiffin,1114487.0,2.0,Hardin Scott,11.207,744275
+Arielle Kebbel,20373.0,1.0,"Kimberly ""Kim"" Vance",11.209,744275
+Matthias Schweighöfer,16808.0,2.0,Ludwig Dieter,11.536,796499
+Nathalie Emmanuel,1251069.0,1.0,Gwendoline,16.415,796499
+Ruby O. Fee,229396.0,1.0,Korina,40.696,796499
+Dave Bautista,543530.0,2.0,Scott Ward (Archive Footage),17.218,796499
+Idris Elba,17605.0,2.0,Rufus Buck,18.665,618162
+Regina King,9788.0,1.0,Trudy Smith,11.247,618162
+Zazie Beetz,1545693.0,1.0,Stagecoach Mary,16.432,618162
+Timothée Chalamet,1190668.0,2.0,Paul Atreides,18.195,438631
+Rebecca Ferguson,933238.0,1.0,Lady Jessica Atreides,31.986,438631
+Oscar Isaac,25072.0,2.0,Duke Leto Atreides,27.188,438631
+Josh Brolin,16851.0,2.0,Gurney Halleck,12.818,438631
+Stellan Skarsgård,1640.0,2.0,Baron Vladimir Harkonnen,11.154,438631
+Dave Bautista,543530.0,2.0,Beast Rabban Harkonnen,17.218,438631
+Zendaya,505710.0,1.0,Chani,27.914,438631
+Jason Momoa,117642.0,2.0,Duncan Idaho,21.201,438631
+Tom Holland,1136406.0,2.0,Peter Parker / Spider-Man,55.46,634649
+Zendaya,505710.0,1.0,Michelle 'MJ' Jones,27.914,634649
+Benedict Cumberbatch,71580.0,2.0,Stephen Strange / Doctor Strange,21.302,634649
+Marisa Tomei,3141.0,1.0,May Parker,13.46,634649
+Alfred Molina,658.0,2.0,Otto Octavius / Doctor Octopus,15.214,634649
+Jamie Foxx,134.0,2.0,Max Dillon / Electro,11.402,634649
+Willem Dafoe,5293.0,2.0,Norman Osborn / Green Goblin,18.506,634649
+Angourie Rice,1265629.0,1.0,Betty Brant,12.869,634649
+J.K. Simmons,18999.0,2.0,J. Jonah Jameson,18.291,634649
+Benedict Wong,30082.0,2.0,Wong,19.47,634649
+Ryan Reynolds,10859.0,2.0,Guy,64.439,550988
+Jodie Comer,1388593.0,1.0,Millie Rusk / Molotovgirl,15.418,550988
+Taika Waititi,55934.0,2.0,Antwan Hovachelik,16.345,550988
+Channing Tatum,38673.0,2.0,Revenjamin Buttons,16.855,550988
+Hugh Jackman,6968.0,2.0,Masked Player in Alley (voice),13.905,550988
+Dwayne Johnson,18918.0,2.0,Bank Robber #2 (voice),43.865,550988
+Chris Evans,16828.0,2.0,Chris Evans,15.438,550988
+Tom Hardy,2524.0,2.0,Eddie Brock / Venom,45.626,335983
+Michelle Williams,1812.0,1.0,Anne Weying,10.796,335983
+Woody Harrelson,57755.0,2.0,Cletus Kasady / Carnage,26.791,335983
+Andrew Garfield,37625.0,2.0,Peter Parker / Spider-Man,33.885,1930
+Emma Stone,54693.0,1.0,Gwen Stacy,13.297,1930
+Embeth Davidtz,6368.0,1.0,Mary Parker,12.569,1930
+Kelsey Asbille,205976.0,1.0,Sally Avril,11.094,1930
+Úrsula Corberó,1042728.0,1.0,The Baroness,22.941,568620
+Samara Weaving,1372369.0,1.0,Scarlett,18.887,568620
+Iko Uwais,113732.0,2.0,Hard Master,11.291,568620
+Karen Gillan,543261.0,1.0,Sam,15.818,574060
+Lena Headey,17286.0,1.0,Scarlet,13.026,574060
+Carla Gugino,17832.0,1.0,Madeleine,16.221,574060
+Michelle Yeoh,1620.0,1.0,Florence,18.753,574060
+Paul Giamatti,13242.0,2.0,Nathan,10.203,574060
+Freddie Highmore,1281.0,2.0,Thom Laybrick,13.301,630004
+Famke Janssen,10696.0,1.0,Margaret,16.862,630004
+Tom Holland,1136406.0,2.0,Peter Parker / Spider-Man,55.46,429617
+Samuel L. Jackson,2231.0,2.0,Nick Fury,18.074,429617
+Jake Gyllenhaal,131.0,2.0,Quentin Beck / Mysterio,15.412,429617
+Marisa Tomei,3141.0,1.0,May Parker,13.46,429617
+Zendaya,505710.0,1.0,Michelle 'MJ' Jones,27.914,429617
+Angourie Rice,1265629.0,1.0,Betty Brant,12.869,429617
+J.K. Simmons,18999.0,2.0,J. Jonah Jameson,18.291,429617
+Tom Holland,1136406.0,2.0,Peter Parker / Spider-Man,55.46,315635
+Michael Keaton,2232.0,2.0,Adrian Toomes / Vulture,13.351,315635
+Robert Downey Jr.,3223.0,2.0,Tony Stark / Iron Man,18.347,315635
+Marisa Tomei,3141.0,1.0,May Parker,13.46,315635
+Zendaya,505710.0,1.0,Michelle 'MJ' Jones,27.914,315635
+Angourie Rice,1265629.0,1.0,Betty Brant,12.869,315635
+Jennifer Connelly,6161.0,1.0,Karen (voice),16.909,315635
+Chris Evans,16828.0,2.0,Steve Rogers / Captain America,15.438,315635
+Oscar Isaac,25072.0,2.0,Gomez Addams (voice),27.188,639721
+Charlize Theron,6885.0,1.0,Morticia Addams (voice),20.617,639721
+Chloë Grace Moretz,56734.0,1.0,Wednesday Addams (voice),29.134,639721
+Mariya Ise,1250465.0,1.0,Kyōjurō Rengoku (young) (voice),10.34,635302
+Takuya Eguchi,1248374.0,2.0,(voice),10.805,635302
+James Marsden,11006.0,2.0,Tim Templeton (voice),10.2,459151
+Lisa Kudrow,14406.0,1.0,Janice Templeton (voice),20.2,459151
+Jamie Lee Curtis,8944.0,1.0,Laurie Strode,12.613,610253
+Judy Greer,20750.0,1.0,Karen Nelson,14.689,610253
+Will Patton,883.0,2.0,Frank Hawkins,10.918,610253
+Dylan Arnold,1039523.0,2.0,Cameron Elam,16.684,610253
+Vin Diesel,12835.0,2.0,Dominic Toretto,24.05,385128
+Michelle Rodriguez,17647.0,1.0,Letty Ortiz,11.1,385128
+Tyrese Gibson,8169.0,2.0,Roman Pearce,13.108,385128
+Nathalie Emmanuel,1251069.0,1.0,Ramsey,16.415,385128
+Sung Kang,61697.0,2.0,Han Lue,10.079,385128
+Michael Rooker,12132.0,2.0,Buddy,12.342,385128
+Helen Mirren,15735.0,1.0,Magdalene 'Queenie' Shaw,10.608,385128
+Charlize Theron,6885.0,1.0,Cipher,20.617,385128
+Jason Statham,976.0,2.0,Deckard Shaw (uncredited),28.228,385128
+Margot Robbie,234352.0,1.0,Harleen Quinzel / Harley Quinn,17.976,436969
+Idris Elba,17605.0,2.0,Robert DuBois / Bloodsport,18.665,436969
+Joel Kinnaman,92404.0,2.0,Rick Flag,11.441,436969
+Sylvester Stallone,16483.0,2.0,Nanaue / King Shark (voice),25.612,436969
+Michael Rooker,12132.0,2.0,Brian Durlin / Savant,12.342,436969
+Alice Braga,8602.0,1.0,Sol Soria,11.444,436969
+Taika Waititi,55934.0,2.0,Ratcatcher 1,16.345,436969
+Dwayne Johnson,18918.0,2.0,Frank Wolff,43.865,451048
+Emily Blunt,5081.0,1.0,Dr. Lily Houghton,17.977,451048
+Jack Whitehall,212285.0,2.0,McGregor Houghton,12.029,451048
+Jesse Plemons,88124.0,2.0,Prince Joachim,17.438,451048
+Paul Giamatti,13242.0,2.0,Nilo,10.203,451048
+Tobey Maguire,2219.0,2.0,Peter Parker / Spider-Man,13.023,557
+Willem Dafoe,5293.0,2.0,Norman Osborn / Green Goblin,18.506,557
+Kirsten Dunst,205.0,1.0,Mary Jane Watson,10.878,557
+J.K. Simmons,18999.0,2.0,J. Jonah Jameson,18.291,557
+Elizabeth Banks,9281.0,1.0,Betty Brant,11.036,557
+April Bowlby,112371.0,1.0,Jackie,17.823,762469
+Tobey Maguire,2219.0,2.0,Peter Parker / Spider-Man,13.023,559
+Kirsten Dunst,205.0,1.0,Mary Jane Watson,10.878,559
+J.K. Simmons,18999.0,2.0,J. Jonah Jameson,18.291,559
+Elizabeth Banks,9281.0,1.0,Miss Brant,11.036,559
+Willem Dafoe,5293.0,2.0,Norman Osborn / Green Goblin,18.506,559
+Scarlett Johansson,1245.0,1.0,Natasha Romanoff / Black Widow,27.846,497698
+Florence Pugh,1373737.0,1.0,Yelena Belova,11.554,497698
+Rachel Weisz,3293.0,1.0,Melina Vostokoff,16.013,497698
+Olga Kurylenko,18182.0,1.0,Antonia Dreykov,19.041,497698
+Violet McGraw,2131391.0,1.0,Young Yelena,15.674,497698
+Jeremy Renner,17604.0,2.0,Clint Barton / Hawkeye (voice) (uncredited),14.457,497698
+Andrew Garfield,37625.0,2.0,Peter Parker / Spider-Man,33.885,102382
+Emma Stone,54693.0,1.0,Gwen Stacy,13.297,102382
+Jamie Foxx,134.0,2.0,Max Dillon / Electro,11.402,102382
+Paul Giamatti,13242.0,2.0,Aleksei Sytsevich / The Rhino,10.203,102382
+Embeth Davidtz,6368.0,1.0,Mary Parker,12.569,102382
+Sarah Gadon,190895.0,1.0,Kari,10.635,102382
+Michael Keaton,2232.0,2.0,Michael Rembrandt,13.351,645788
+Samuel L. Jackson,2231.0,2.0,Moody,18.074,645788
+Robert Patrick,418.0,2.0,Billy Boy,14.715,645788
+Guy Pearce,529.0,2.0,David Carmichael,16.254,675319
+Emma Stone,54693.0,1.0,Estella / Cruella,13.297,337404
+Emma Thompson,7056.0,1.0,The Baroness,11.145,337404
+Mark Strong,2983.0,2.0,John the Valet,10.457,337404
+Zendaya,505710.0,1.0,Lola Bunny (voice),27.914,379686
+Noomi Rapace,87722.0,1.0,Lisa,15.54,760747
+Violet McGraw,2131391.0,1.0,Jenny,15.674,760195
+Millie Bobby Brown,1356210.0,1.0,Madison Russell,13.151,399566
+Rebecca Hall,15556.0,1.0,Dr. Ilene Andrews,15.676,399566
+Jason Statham,976.0,2.0,H,28.228,637649
+Josh Hartnett,2299.0,2.0,Boy Sweat Dave,12.966,637649
+Scott Eastwood,928572.0,2.0,Jan,11.718,637649
+Hailee Steinfeld,130640.0,1.0,Gwen Stacy / Spider-Woman (voice),20.084,324857
+Mahershala Ali,932967.0,2.0,Uncle Aaron / Prowler (voice),11.781,324857
+Nicolas Cage,2963.0,2.0,Peter Parker / Spider-Man Noir (voice),11.649,324857
+Kathryn Hahn,17696.0,1.0,Olivia 'Liv' Octavius / Doc Ock (voice),12.415,324857
+Oscar Isaac,25072.0,2.0,Interesting Person #1 (voice),27.188,324857
+Vera Farmiga,21657.0,1.0,Livia Soprano,11.516,524369
+Ben Affleck,880.0,2.0,Bruce Wayne / Batman,11.727,791373
+Henry Cavill,73968.0,2.0,Clark Kent / Superman / Kal-El,23.665,791373
+Gal Gadot,90633.0,1.0,Diana Prince / Wonder Woman,45.521,791373
+Jason Momoa,117642.0,2.0,Arthur Curry / Aquaman,21.201,791373
+Amy Adams,9273.0,1.0,Lois Lane,13.157,791373
+Connie Nielsen,935.0,1.0,Queen Hippolyta,18.943,791373
+J.K. Simmons,18999.0,2.0,Commissioner James Gordon,18.291,791373
+Ciarán Hinds,8785.0,2.0,Steppenwolf (voice),11.159,791373
+Jared Leto,7499.0,2.0,The Joker,11.702,791373
+Willem Dafoe,5293.0,2.0,Nudis Vulko,18.506,791373
+Russell Crowe,934.0,2.0,Jor-El (voice),10.065,791373
+Carla Gugino,17832.0,1.0,Ship Voice (voice),16.221,791373
+Chris Pratt,73457.0,2.0,Dan Forester,14.291,588228
+J.K. Simmons,18999.0,2.0,James Forester,18.291,588228
+Bruce Willis,62.0,2.0,James Ford,23.272,681887
+Frank Grillo,81685.0,2.0,Gen. Eron Ryle,14.487,681887
+Lochlyn Munro,58058.0,2.0,Alex Loche,11.081,681887
+Mark Wahlberg,13240.0,2.0,Evan McCauley,22.508,581726
+Dylan O'Brien,527393.0,2.0,Heinrich Treadway,11.863,581726
+Nicolas Cage,2963.0,2.0,Grug Crood (voice),11.649,529203
+Emma Stone,54693.0,1.0,Eep Crood (voice),13.297,529203
+Ryan Reynolds,10859.0,2.0,Guy (voice),64.439,529203
+Robert Downey Jr.,3223.0,2.0,Tony Stark / Iron Man,18.347,299536
+Chris Hemsworth,74568.0,2.0,Thor Odinson,15.93,299536
+Chris Evans,16828.0,2.0,Steve Rogers / Captain America,15.438,299536
+Scarlett Johansson,1245.0,1.0,Natasha Romanoff / Black Widow,27.846,299536
+Benedict Cumberbatch,71580.0,2.0,Stephen Strange / Doctor Strange,21.302,299536
+Tom Holland,1136406.0,2.0,Peter Parker / Spider-Man,55.46,299536
+Zoe Saldana,8691.0,1.0,Gamora,16.112,299536
+Karen Gillan,543261.0,1.0,Nebula,15.818,299536
+Elizabeth Olsen,550843.0,1.0,Wanda Maximoff / Scarlet Witch,13.163,299536
+Anthony Mackie,53650.0,2.0,Sam Wilson / Falcon,10.666,299536
+Sebastian Stan,60898.0,2.0,James 'Bucky' Barnes / Winter Soldier,21.605,299536
+Tom Hiddleston,91606.0,2.0,Loki,21.444,299536
+Idris Elba,17605.0,2.0,Heimdall,18.665,299536
+Benedict Wong,30082.0,2.0,Wong,19.47,299536
+Dave Bautista,543530.0,2.0,Drax the Destroyer,17.218,299536
+Vin Diesel,12835.0,2.0,Groot (voice),24.05,299536
+Bradley Cooper,51329.0,2.0,Rocket (voice),11.312,299536
+Josh Brolin,16851.0,2.0,Thanos,12.818,299536
+Chris Pratt,73457.0,2.0,Peter Quill / Star-Lord,14.291,299536
+Samuel L. Jackson,2231.0,2.0,Nick Fury (uncredited),18.074,299536
+Melora Hardin,404.0,1.0,Officer Sacks,10.834,777620
+Zoe Saldana,8691.0,1.0,Neytiri,16.112,19995
+Sigourney Weaver,10205.0,1.0,Dr. Grace Augustine,16.02,19995
+Stephen Lang,32747.0,2.0,Colonel Miles Quaritch,17.312,19995
+Michelle Rodriguez,17647.0,1.0,Trudy Chacon,11.1,19995
+Kate Siegel,932076.0,1.0,Jenn,12.575,864873
+Rufus Sewell,17328.0,2.0,Charles,10.453,631843
+Thomasin McKenzie,1356758.0,1.0,Maddox Aged 16,29.669,631843
+Ken Leung,2131.0,2.0,Jarin,10.577,631843
+Embeth Davidtz,6368.0,1.0,Adult Maddox,12.569,631843
+Awkwafina,1625558.0,1.0,Sisu (voice),45.392,527774
+Gemma Chan,97576.0,1.0,Namaari (voice),20.987,527774
+Benedict Wong,30082.0,2.0,Tong (voice),19.47,527774
+Sung Kang,61697.0,2.0,Dang Hai (voice),10.079,527774
+Robert Knepper,17343.0,2.0,Mysterious Oil Lobbyist,13.192,767304
+Stephen Lang,32747.0,2.0,The Blind Man,17.312,482373
+Daniel Radcliffe,10980.0,2.0,Harry Potter,10.907,671
+Emma Watson,10990.0,1.0,Hermione Granger,17.766,671
+Matthew Lillard,26457.0,2.0,Shaggy Rogers (voice),13.821,843906
+Jason Momoa,117642.0,2.0,Ray Cooper,21.201,619297
+Isabela Merced,1428070.0,1.0,Rachel Cooper,14.393,619297
+Dave Bautista,543530.0,2.0,Scott Ward,17.218,503736
+Ella Purnell,989325.0,1.0,Kate Ward,24.039,503736
+Matthias Schweighöfer,16808.0,2.0,Ludwig Dieter,11.536,503736
+Nora Arnezeder,453272.0,1.0,Lilly / The Coyote,10.522,503736
+Tyrese Gibson,8169.0,2.0,Kyle Snowden,13.108,825997
+Tom Skerritt,4139.0,2.0,Dex,11.575,859860
+Nicolas Cage,2963.0,2.0,John Koestler,11.649,13811
+Rose Byrne,9827.0,1.0,Diana Wayland,21.192,13811
+Vera Farmiga,21657.0,1.0,Lorraine Warren,11.516,423108
+Ruby Rose,1246972.0,3.0,Grace Lewis,12.924,595743
+Andy Serkis,1333.0,2.0,George Clements,11.556,595743
+Tom Hopper,1017294.0,2.0,Declan Smith,13.832,595743
+Josephine Langford,1753914.0,1.0,Tessa Young,20.743,613504
+Hero Fiennes Tiffin,1114487.0,2.0,Hardin Scott,11.207,613504
+Dylan Arnold,1039523.0,2.0,Noah Porter,16.684,613504
+Paul Rudd,22226.0,2.0,Mr. Grooberson,26.111,425909
+Finn Wolfhard,1442069.0,2.0,Trevor,12.393,425909
+Mckenna Grace,1172108.0,1.0,Phoebe,14.644,425909
+Bill Murray,1532.0,2.0,Dr. Peter Venkman,14.825,425909
+Sigourney Weaver,10205.0,1.0,Dana Barrett,16.02,425909
+J.K. Simmons,18999.0,2.0,Ivo Shandor,18.291,425909
+Liam Neeson,3896.0,2.0,Jim,18.804,634528
+Katheryn Winnick,26723.0,1.0,Sarah,21.924,634528
+Will Patton,883.0,2.0,Caleb Tucker,10.918,602223
+Jessica Chastain,83002.0,1.0,Ava,11.295,539885
+Colin Farrell,72466.0,2.0,Simon,10.107,539885
+Sydney Sweeney,115440.0,1.0,Eva,14.55,669671
+Megan Fox,19537.0,1.0,Grace,12.928,669671
+Daniel Radcliffe,10980.0,2.0,Harry Potter,10.907,672
+Emma Watson,10990.0,1.0,Hermione Granger,17.766,672
+Gal Gadot,90633.0,1.0,Diana Prince / Wonder Woman,45.521,464052
+Kristen Wiig,41091.0,1.0,Barbara Minerva / Cheetah,12.475,464052
+Connie Nielsen,935.0,1.0,Hippolyta,18.943,464052
+Takeru Satoh,230659.0,2.0,Kenshin Himura,13.907,672322
+Kasumi Arimura,1039305.0,1.0,Tomoe Yukishiro,17.921,672322
+Daniel Radcliffe,10980.0,2.0,Harry Potter,10.907,674
+Emma Watson,10990.0,1.0,Hermione Granger,17.766,674
+Ralph Fiennes,5469.0,2.0,Lord Voldemort,12.781,674
+Gary Oldman,64.0,2.0,Sirius Black,11.946,674
+Katie Leung,234933.0,1.0,Cho Chang,10.759,674
+Milla Jovovich,63.0,1.0,Artemis,11.047,458576
+Will Smith,2888.0,2.0,John Hancock,23.458,8960
+Charlize Theron,6885.0,1.0,Mary Embrey,20.617,8960
+Jason Bateman,23532.0,2.0,Ray Embrey,12.734,8960
+Tom Hiddleston,91606.0,2.0,Loki (voice),21.444,846214
+Dawnn Lewis,87819.0,1.0,Ravonna Renslayer (voice),12.218,846214
+Robert Downey Jr.,3223.0,2.0,Tony Stark / Iron Man,18.347,299534
+Chris Evans,16828.0,2.0,Steve Rogers / Captain America,15.438,299534
+Chris Hemsworth,74568.0,2.0,Thor Odinson,15.93,299534
+Scarlett Johansson,1245.0,1.0,Natasha Romanoff / Black Widow,27.846,299534
+Jeremy Renner,17604.0,2.0,Clint Barton / Hawkeye,14.457,299534
+Paul Rudd,22226.0,2.0,Scott Lang / Ant-Man,26.111,299534
+Benedict Cumberbatch,71580.0,2.0,Stephen Strange / Doctor Strange,21.302,299534
+Brie Larson,60073.0,1.0,Carol Danvers / Captain Marvel,14.968,299534
+Tom Holland,1136406.0,2.0,Peter Parker / Spider-Man,55.46,299534
+Karen Gillan,543261.0,1.0,Nebula,15.818,299534
+Zoe Saldana,8691.0,1.0,Gamora,16.112,299534
+Evangeline Lilly,19034.0,1.0,Hope Van Dyne / Wasp,12.935,299534
+Tessa Thompson,62561.0,1.0,Valkyrie,12.327,299534
+Elizabeth Olsen,550843.0,1.0,Wanda Maximoff / Scarlet Witch,13.163,299534
+Anthony Mackie,53650.0,2.0,Sam Wilson / Falcon,10.666,299534
+Sebastian Stan,60898.0,2.0,Bucky Barnes / Winter Soldier,21.605,299534
+Tom Hiddleston,91606.0,2.0,Loki,21.444,299534
+Benedict Wong,30082.0,2.0,Wong,19.47,299534
+Dave Bautista,543530.0,2.0,Drax,17.218,299534
+Marisa Tomei,3141.0,1.0,Aunt May,13.46,299534
+Taika Waititi,55934.0,2.0,Korg (voice),16.345,299534
+Frank Grillo,81685.0,2.0,Brock Rumlow,14.487,299534
+Vin Diesel,12835.0,2.0,Groot (voice),24.05,299534
+Bradley Cooper,51329.0,2.0,Rocket (voice),11.312,299534
+Josh Brolin,16851.0,2.0,Thanos,12.818,299534
+Chris Pratt,73457.0,2.0,Peter Quill / Star-Lord,14.291,299534
+Samuel L. Jackson,2231.0,2.0,Nick Fury,18.074,299534
+Robert Downey Jr.,3223.0,2.0,Tony Stark / Iron Man,18.347,24428
+Chris Evans,16828.0,2.0,Steve Rogers / Captain America,15.438,24428
+Chris Hemsworth,74568.0,2.0,Thor Odinson,15.93,24428
+Scarlett Johansson,1245.0,1.0,Natasha Romanoff / Black Widow,27.846,24428
+Jeremy Renner,17604.0,2.0,Clint Barton / Hawkeye,14.457,24428
+Tom Hiddleston,91606.0,2.0,Loki,21.444,24428
+Samuel L. Jackson,2231.0,2.0,Nick Fury,18.074,24428
+Stellan Skarsgård,1640.0,2.0,Erik Selvig,11.154,24428
+Ashley Johnson,34486.0,1.0,Waitress,12.968,24428
+Daniel Radcliffe,10980.0,2.0,Harry Potter,10.907,673
+Emma Watson,10990.0,1.0,Hermione Granger,17.766,673
+Gary Oldman,64.0,2.0,Sirius Black,11.946,673
+Emma Thompson,7056.0,1.0,Sybill Trelawney,11.145,673
+Pam Ferris,11213.0,1.0,Marge Dursley,11.843,673
+Josephine Langford,1753914.0,1.0,Tessa Young,20.743,537915
+Hero Fiennes Tiffin,1114487.0,2.0,Hardin Scott,11.207,537915
+Dylan Arnold,1039523.0,2.0,Noah Porter,16.684,537915
+Peter Gallagher,8212.0,2.0,Ken Scott,24.014,537915
+Vanessa Hudgens,67599.0,1.0,Sunny Starscout (voice),11.442,597316
+James Marsden,11006.0,2.0,Hitch Trailblazer (voice),10.2,597316
+Tessa Thompson,62561.0,1.0,Irene Redfield,12.327,541524
+Chloë Grace Moretz,56734.0,1.0,Kayla Forrester,29.134,587807
+Jean-Claude Van Damme,15111.0,2.0,Richard Brumére,12.653,729720
+Lyubov Aksyonova,1318905.0,1.0,Yuliya Pchelkina,11.407,529106
+Keanu Reeves,6384.0,2.0,Sage,19.751,400160
+Clancy Brown,6574.0,2.0,Mr. Krabs (voice),18.04,400160
+Awkwafina,1625558.0,1.0,Otto (voice),45.392,400160
+Danny Trejo,11160.0,2.0,El Diablo,12.501,400160
+Daniel Radcliffe,10980.0,2.0,Harry Potter,10.907,12444
+Emma Watson,10990.0,1.0,Hermione Granger,17.766,12444
+Ralph Fiennes,5469.0,2.0,Lord Voldemort,12.781,12444
+Domhnall Gleeson,93210.0,2.0,Bill Weasley,17.835,12444
+Katie Leung,234933.0,1.0,Cho Chang,10.759,12444
+Jamie Foxx,134.0,2.0,Joe Gardner (voice),11.402,508442
+Alice Braga,8602.0,1.0,Counselor Jerry (voice),11.444,508442
+Mary Elizabeth Winstead,17628.0,1.0,Kate,17.32,597891
+Woody Harrelson,57755.0,2.0,Varrick,26.791,597891
+Emily Blunt,5081.0,1.0,Evelyn Abbott,17.977,520763
+Cillian Murphy,2037.0,2.0,Emmett,14.91,520763
+Daniel Radcliffe,10980.0,2.0,Harry Potter,10.907,767
+Emma Watson,10990.0,1.0,Hermione Granger,17.766,767
+Katie Leung,234933.0,1.0,Cho Chang,10.759,767
+Hero Fiennes Tiffin,1114487.0,2.0,Tom Riddle (11 Years),11.207,767
+Ralph Fiennes,5469.0,2.0,Lord Voldemort,12.781,767
+Daniel Radcliffe,10980.0,2.0,Harry Potter,10.907,675
+Emma Watson,10990.0,1.0,Hermione Granger,17.766,675
+Ralph Fiennes,5469.0,2.0,Lord Voldemort,12.781,675
+Gary Oldman,64.0,2.0,Sirius Black,11.946,675
+Emma Thompson,7056.0,1.0,Sybil Trelawney,11.145,675
+Katie Leung,234933.0,1.0,Cho Chang,10.759,675
+Daniel Radcliffe,10980.0,2.0,Harry Potter,10.907,12445
+Emma Watson,10990.0,1.0,Hermione Granger,17.766,12445
+Ralph Fiennes,5469.0,2.0,Lord Voldemort,12.781,12445
+Ciarán Hinds,8785.0,2.0,Aberforth Dumbledore,11.159,12445
+Domhnall Gleeson,93210.0,2.0,Bill Weasley,17.835,12445
+Emma Thompson,7056.0,1.0,Sybill Trelawney,11.145,12445
+Katie Leung,234933.0,1.0,Cho Chang,10.759,12445
+Gary Oldman,64.0,2.0,Sirius Black,11.946,12445
+Hailee Steinfeld,130640.0,1.0,Gwen Stacy / Spider-Gwen (voice),20.084,569094
+Oscar Isaac,25072.0,2.0,Miguel O'Hara / Spider-Man 2099 (voice),27.188,569094
+Pierce Brosnan,517.0,2.0,Richard Pace,16.348,581644
+Tim Roth,3129.0,2.0,Schultz,15.86,581644
+Hermione Corfield,1345419.0,1.0,Hope,14.973,581644
+Isabela Merced,1428070.0,1.0,Lucky Prescott (voice),14.393,637693
+Jake Gyllenhaal,131.0,2.0,Jim Prescott (voice),15.412,637693
+Julianne Moore,1231.0,1.0,Aunt Cora (voice),15.672,637693
+Mckenna Grace,1172108.0,1.0,Abigail Stone (voice),14.644,637693
+Anne Hathaway,1813.0,1.0,Grand High Witch,20.514,531219
+Rose Byrne,9827.0,1.0,Bea,21.192,522478
+Domhnall Gleeson,93210.0,2.0,Mr. Thomas McGregor,17.835,522478
+Margot Robbie,234352.0,1.0,Flopsy (voice),17.976,522478
+Sam Neill,4783.0,2.0,Tommy Brock (voice),20.786,522478
+Jason Statham,976.0,2.0,Chev Chelios,28.228,15092
+Amy Smart,20189.0,1.0,Eve,12.083,15092
+Monique Alexander,135586.0,1.0,Female Porn Star,17.054,15092
+Kate Beckinsale,3967.0,1.0,Lindy,12.427,617502
+Zoe Saldana,8691.0,1.0,Rosa (voice),16.112,449406
+Michael Rooker,12132.0,2.0,Lutador (voice),12.342,449406
+Bill Murray,1532.0,2.0,(footage),14.825,834404
+Vin Diesel,12835.0,2.0,Dominic Toretto,24.05,385687
+Michelle Rodriguez,17647.0,1.0,Letty Ortiz,11.1,385687
+Jason Statham,976.0,2.0,Deckard Shaw,28.228,385687
+Tyrese Gibson,8169.0,2.0,Roman Pearce,13.108,385687
+Charlize Theron,6885.0,1.0,Cipher,20.617,385687
+Nathalie Emmanuel,1251069.0,1.0,Ramsey,16.415,385687
+Sung Kang,61697.0,2.0,Han Lue,10.079,385687
+Helen Mirren,15735.0,1.0,Queenie Shaw,10.608,385687
+Annabelle Wallis,82809.0,1.0,Madison Mitchell / Emily May,18.163,619778
+Mckenna Grace,1172108.0,1.0,Young Madison Mitchell / Emily May,14.644,619778
+Dylan O'Brien,527393.0,2.0,Thomas,11.863,198663
+Kaya Scodelario,115150.0,1.0,Teresa Agnes,14.637,198663
+Will Poulter,93491.0,2.0,Gally,14.307,198663
+Krysten Ritter,78080.0,1.0,Natacha,10.359,739990
+Andy Samberg,62861.0,2.0,Johnny Loughran (voice),16.593,585083
+Kathryn Hahn,17696.0,1.0,Ericka Van Helsing (voice),12.415,585083
+Steve Buscemi,884.0,2.0,Wayne (voice),16.849,585083
+Kristen Stewart,37917.0,1.0,Bella Swan,18.555,24021
+Ashley Greene,45827.0,1.0,Alice Cullen,18.787,24021
+Julia Jones,87310.0,1.0,Leah Clearwater,12.428,24021
+Rie Takahashi,1492982.0,1.0,Megumin (voice),10.507,532067
+Jennifer Carpenter,53828.0,1.0,Sonya Blade (voice),15.045,841755
+Matthew Lillard,26457.0,2.0,Shaggy (voice),13.821,841755
+Benedict Cumberbatch,71580.0,2.0,Greville Wynne,21.302,522241
+Justice Smith,1029934.0,2.0,Marc (voice),10.014,482321
+Jackie Chan,18897.0,2.0,Tang Huanting,20.023,604822
+Alicia Vikander,227454.0,1.0,April,20.329,597433
+Connie Nielsen,935.0,1.0,Becca Mansell,18.943,615457
+Tobey Maguire,2219.0,2.0,Peter Parker / Spider-Man,13.023,558
+Kirsten Dunst,205.0,1.0,Mary Jane Watson,10.878,558
+Alfred Molina,658.0,2.0,Otto Octavius / Doctor Octopus,15.214,558
+J.K. Simmons,18999.0,2.0,J. Jonah Jameson,18.291,558
+Willem Dafoe,5293.0,2.0,Norman Osborn,18.506,558
+Elizabeth Banks,9281.0,1.0,Miss Brant,11.036,558
+Liu Yifei,122503.0,1.0,Hua Mulan,11.235,337401
+Jet Li,1336.0,2.0,The Emperor,12.942,337401
+Mariya Ise,1250465.0,1.0,Beros (voice),10.34,768744
+Andrew Garfield,37625.0,2.0,Desmond T. Doss,33.885,324786
+Vince Vaughn,4937.0,2.0,Sergeant Howell,10.579,324786
