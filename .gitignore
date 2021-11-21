@@ -4,6 +4,7 @@ __pycache__/
 *$py.class
 .DS_Store
 API_Key.py
+postgres_data.py
 
 # C extensions
 *.so
