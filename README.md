@@ -1,12 +1,13 @@
-# F-PALS: The Final Project
-## __Profitibility of Movies Through Machine Learning__
-
+# F-PALS: The Final Project 
 Our final project will be based on a machine learning algorithm for __*MOVIES*__ and if we can predict the earnings for movies past and future!
 
+## __Profitibility of Movies Through Machine Learning__
+### Why did we pick movies? And what are we hoping to answer?
 __*Movies*__ are a cornerstone of culture worldwide as well as being one of the most lucrative businesses in media. They are a subject in which all of us within the group could relate with the sheer volume and appeal of which, there's a movie for everyone! With the data available to us to collect, there was plenty especially when it came to box office success. For our final project we wanted to create a machine learning algorithm to predict how successful a movie would become on release as well as potential losses in profits due to a flop. 
 Along with the flops and successes, we hope to discover the trends in movie production to find out how future movies will perform based on those variables tested and trained for.
 
-The source data that we have decided to use is from [The Movie Database](themoviedb.org). It is a site very similar to IMDB (a leading information resource on multimedia), focusing on movies and shows as well as having access to a free API through the [developers website for The Movie Database](developers.themoviedb.org). This website also uses IMDB IDs for their films and other items of inquiry for ease of reference between both websites.
+### Where did we find our data? Why did we use it?
+The source data that we have decided to use is from [The Movie Database](https://www.themoviedb.org/). It is a site very similar to [IMDB](https://www.imdb.com/) (a leading information resource on multimedia), focusing on movies and shows as well as having access to a free API through the [developers website for The Movie Database](https://developers.themoviedb.org/3/getting-started/introduction). This website also uses IMDB IDs for their films and other items of inquiry for ease of reference between both websites.
 
 With our sample data that we pulled for our database and machine learning skeleton, we pulled the first 11 pages of the "popular movies" tag to test out our code and work out any kinks. The full pull thorugh the API will be for all available movies to have as much data as possible before clearing out null values. 
 
@@ -23,20 +24,6 @@ For the specific variables we were scraping for, we picked as many variables tha
   * 11/23: 6:30PM
 
 At first we used Zoom for our meetings due to familiarity of the app through class. However, we soon found out that Zoom had a short time limit of about an hour for video conferences, to we decided to use another free app, [Discord](discord.com) in place of it. Through our Discord server created specifically for the project, any of us can join into a voice chat room at any point in time without having to start a specific conference as well as share all our screens at once if necessary. Our meetings typically lasted for 2 hours and any other questions or concerns done outside of them were done through Slack.
-
-## Possible Data Links
-[13 Best Movie Data Sets For Machine Learning Projects](https://imerit.net/blog/13-best-movie-data-sets-for-machine-learning-projects-all-pbm/)
-
-[Examples for Tableau](https://public.tableau.com/search/all/%23Movies)
-
-[MovieLens Datasets](https://grouplens.org/datasets/movielens/)
-
-[IMDB Dataset on Kaggle](https://www.kaggle.com/columbine/imdb-dataset-sentiment-analysis-in-csv-format?select=Valid.csv)
-
-[Machine Learning: Movie Recommendations Example](https://data-flair.training/blogs/data-science-r-movie-recommendation/)
-
-[Movie API](https://www.themoviedb.org/documentation/api)
-
 
 ## Segment 1: Roles
 * __*SQUARE*__: Andrew
