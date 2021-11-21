@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> Freddie784
 ,movie_id,title,release_date,movie_popularity,vote_average,vote_count,budget,revenue,rating
 0,566525,Shang-Chi and the Legend of the Ten Rings,2021-09-01,7750.478,7.9,3181,150000000,430238384,PG-13
 1,370172,No Time to Die,2021-09-29,4212.055,7.6,1927,242000000,708000000,PG-13
@@ -77,6 +80,7 @@
 192,198663,The Maze Runner,2014-09-10,187.018,7.2,14017,34000000,348319861,PG-13
 194,271110,Captain America: Civil War,2016-04-27,187.647,7.4,18860,250000000,1153296293,PG-13
 197,10138,Iron Man 2,2010-04-28,183.229,6.8,16967,200000000,623933331,PG-13
+<<<<<<< HEAD
 =======
 movie_id,title,release_date,movie_popularity,vote_average,vote_count,budget,revenue
 566525,Shang-Chi and the Legend of the Ten Rings,2021-09-01,9559.446,7.9,2917,150000000,430238384
@@ -280,3 +284,5 @@ movie_id,title,release_date,movie_popularity,vote_average,vote_count,budget,reve
 893204,Single Mother by Choice,2021-11-02,175.537,7.3,9,0,0
 572154,Rascal Does Not Dream of a Dreaming Girl,2019-06-15,173.846,8.5,324,0,0
 >>>>>>> 5e3fffea3cc0a460612e5f876314976d9817a8ac
+=======
+>>>>>>> Freddie784
