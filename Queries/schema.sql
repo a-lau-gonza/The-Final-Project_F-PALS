@@ -8,6 +8,7 @@ CREATE TABLE movie_data (
 	vote_count INT,
 	budget INT8,
 	revenue INT8,
+	ratings VARCHAR(7),
     PRIMARY KEY (movie_id)
 );
 
