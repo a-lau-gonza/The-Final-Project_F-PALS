@@ -48,4 +48,5 @@ At first we used Zoom for our meetings due to familiarity of the app through cla
   * boolean value for ML will be "hit"/"flop" (boolean pending) which will represent whether a movie made back its theorhetical budget or not
   * for movies, a typical rule of thumb on if it made its money back is 2x the original budget. the extra half is used for marketing.
   * if revenue > (2 * budget) then it made a profit
+* Machine learning skeletons are placed in Tables folder
 
