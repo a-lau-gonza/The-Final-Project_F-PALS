@@ -1,0 +1,75 @@
+release_date,movie_popularity,vote_average,vote_count,budget,revenue,rating,genres,studios,actor_popularity,director_popularity
+2021-09-01,8300.401,7.9,3282,150000000,430238384,PG-13,"['Action', 'Adventure', 'Fantasy']",['Marvel Studios'],7.679473684210526,4.245
+2021-09-30,4813.214,6.8,2028,110000000,442000000,PG-13,"['Science Fiction', 'Action', 'Adventure']","['Other', ' Other', ' Other', ' Universal Pictures']",4.1017735849056605,8.68
+2021-09-29,4467.007,7.6,1984,242000000,708000000,PG-13,"['Adventure', 'Action', 'Thriller']","['Marvel Entertainment', ' Pascal Pictures', ' Columbia Pictures', ' Sony Pictures', ' Other']",4.546781818181818,7.496
+2021-11-03,2123.924,7.1,1110,200000000,335000000,PG-13,"['Action', 'Adventure', 'Science Fiction']",['Marvel Studios'],4.835054054054054,2.038
+2021-09-01,1637.706,7.2,903,14000000,19000000,R,"['Romance', 'Drama']",['Other'],4.432857142857143,2.444
+2021-09-15,1826.932,8.0,4140,165000000,354264482,PG-13,"['Science Fiction', 'Adventure']","['Other', ' Other', ' Other', ' Other', ' Other']",5.563025641025641,8.809
+2021-08-11,1680.25,7.8,3746,110000000,331096766,PG-13,"['Comedy', 'Action', 'Adventure', 'Science Fiction']","['Other', ' Other', ' Other', ' Other']",3.8657971014492754,9.28
+2012-06-23,1203.652,6.6,13591,215000000,757930663,PG-13,"['Action', 'Adventure', 'Fantasy']","['Marvel Entertainment', ' Laura Ziskin Productions', ' Sony Pictures', ' Columbia Pictures']",3.6918518518518515,2.337
+2018-09-28,1170.731,6.8,12251,116000000,855013954,PG-13,"['Science Fiction', 'Action']","['Other', ' Other', ' Pascal Pictures', ' Marvel Entertainment', ' Other']",2.834413793103448,2.476
+2021-07-22,984.591,6.8,827,88000000,36964325,PG-13,"['Action', 'Adventure']","['Marvel Studios', ' Columbia Pictures', ' Pascal Pictures']",4.100045454545454,2.956
+2021-07-14,872.279,6.5,378,30000000,344931,R,"['Action', 'Thriller', 'Crime']","['Other', ' Other', ' Other', ' Other', ' Other', ' Other']",4.761896551724138,0.972
+2019-06-28,900.334,7.5,11000,160000000,1131927996,PG-13,"['Action', 'Adventure', 'Science Fiction']","['Other', ' Other', ' Other', ' Other', ' Other', ' Other']",1.9893291925465837,3.949
+2021-07-01,843.738,7.7,1607,82000000,112000000,PG,"['Animation', 'Comedy', 'Adventure', 'Family']","['Marvel Studios', ' Columbia Pictures', ' Pascal Pictures', ' Other', ' Sony Pictures']",2.91392,1.212
+2021-06-17,768.409,8.0,5128,200000000,49010641,PG,"['Animation', 'Comedy', 'Family', 'Fantasy']","['Other', ' Other', ' Other', ' Other']",2.5621,3.623
+2021-07-28,835.181,7.7,3333,200000000,213644366,PG-13,"['Adventure', 'Fantasy', 'Comedy', 'Action']","['Other', ' Universal Pictures']",4.265303030303031,1.4
+2020-10-16,700.117,8.4,1860,15800000,503063688,R,"['Animation', 'Action', 'Adventure', 'Fantasy']","['Marvel Entertainment', ' Columbia Pictures', ' Other', ' Other', ' Sony Pictures']",4.207735294117647,5.481
+2017-07-05,770.941,7.4,17166,175000000,880166924,PG-13,"['Action', 'Adventure', 'Science Fiction', 'Drama']","['Other', ' Columbia Pictures', ' Sony Pictures', ' Laura Ziskin Productions', ' Marvel Entertainment']",4.020746835443038,3.949
+2014-04-16,745.28,6.4,9928,200000000,708962323,PG-13,"['Action', 'Adventure', 'Fantasy']","['Other', ' Walt Disney Pictures']",3.283169014084507,2.337
+2021-10-14,672.92,6.9,1236,20000000,127000000,R,"['Horror', 'Thriller']","['Walt Disney Pictures', ' Other', ' Other', ' Other', ' Other', ' Other']",3.2870227272727273,3.275
+2021-05-19,732.968,7.4,4405,200000000,721077945,PG-13,"['Action', 'Crime', 'Thriller']","['Other', ' Other', ' Other', ' Other']",5.116916666666667,4.594
+2021-07-28,731.421,7.8,4820,180000000,167381210,R,"['Action', 'Adventure', 'Fantasy']","['Other', ' Other', ' Other', ' Other', ' Other']",5.233511627906977,2.747
+2002-05-01,722.013,7.2,14406,139000000,821708551,PG-13,"['Fantasy', 'Action']","['Universal Pictures', ' Other', ' Other', ' Other', ' Other', ' Other']",2.102131868131868,2.813
+2021-11-11,728.849,7.6,81,75000000,60000000,PG-13,"['Comedy', 'Fantasy']","['Columbia Pictures', ' Laura Ziskin Productions', ' Marvel Studios']",4.979405405405405,3.232
+2007-05-01,674.404,6.3,10555,258000000,890871626,PG-13,"['Fantasy', 'Action', 'Adventure']",['Marvel Studios'],1.7762651515151515,2.813
+2021-07-07,703.951,7.6,6016,200000000,378328978,PG-13,"['Action', 'Adventure', 'Science Fiction']","['Other', ' Other', ' Other']",2.275375,2.4
+2021-07-08,631.517,7.3,2604,161900000,148810604,PG,"['Animation', 'Family', 'Comedy', 'Science Fiction']","['Other', ' Other', ' Other']",3.5261621621621617,0.778
+2021-05-26,606.285,8.3,5979,200000000,233274812,PG-13,"['Comedy', 'Crime']",['Walt Disney Pictures'],3.4250322580645163,2.273
+2021-04-07,563.021,7.3,4049,20000000,83601013,R,"['Action', 'Fantasy', 'Adventure']","['Warner Bros. Pictures', ' Other']",1.994625,0.828
+2020-11-25,502.843,7.6,2640,65000000,168285000,PG,"['Animation', 'Family', 'Adventure', 'Fantasy', 'Comedy']","['Sony Pictures', ' Columbia Pictures', ' Other', ' Other', ' Other']",8.705941176470589,1.543
+2021-04-22,434.842,7.8,2659,40000000,103966489,R,"['Action', 'Crime', 'Thriller']","['Other', ' Other', ' Other', ' Other', ' Other']",2.7539374999999997,10.534
+2018-04-25,490.278,8.3,23125,300000000,2046239637,PG-13,"['Adventure', 'Action', 'Science Fiction']",['Marvel Studios'],8.45669230769231,3.3360000000000003
+2021-03-24,444.746,7.9,7236,200000000,467863133,PG-13,"['Action', 'Fantasy', 'Science Fiction']","['Universal Pictures', ' Other']",2.2808723404255318,2.138
+2021-07-21,370.914,6.7,1689,18000000,90112510,PG-13,"['Thriller', 'Horror']","['Warner Bros. Pictures', ' Other', ' Other', ' Other', ' Other', ' Other', ' Other', ' Other']",4.8479629629629635,5.794
+2021-03-18,369.347,8.4,6852,70000000,657000000,R,"['Action', 'Adventure', 'Fantasy', 'Science Fiction']","['Sony Pictures', ' Columbia Pictures', ' Marvel Entertainment', ' Other', ' Other', ' Pascal Pictures', ' Other']",3.175816666666667,6.913
+2021-04-27,420.44,6.7,71,38504400,3310000,PG-13,"['Action', 'Adventure', 'Fantasy']","['Other', ' Other', ' Other', ' Other', ' Other', ' Other', ' Other', ' Other', ' Other', ' Other', ' Other', ' Other']",2.6022307692307693,0.648
+2009-12-10,390.979,7.5,24355,237000000,2847246203,PG-13,"['Action', 'Adventure', 'Fantasy', 'Science Fiction']","['Other', ' Other', ' Other', ' Other']",3.126162162162162,6.701
+2021-05-21,379.444,7.7,3348,61000000,297372261,PG-13,"['Science Fiction', 'Thriller', 'Horror']","['Universal Pictures', ' Other', ' Other']",2.9828076923076923,6.125
+2021-08-12,382.351,7.6,1177,10000000,45000000,R,"['Thriller', 'Horror']","['Walt Disney Pictures', ' Other']",2.7884166666666665,0.765
+2018-12-06,376.175,8.4,10202,90000000,375540831,PG,"['Action', 'Adventure', 'Animation', 'Science Fiction', 'Comedy']","['Other', ' Other', ' Other', ' Sony Pictures', ' Other', ' Other']",2.81224,1.0879999999999999
+2021-03-03,350.081,8.1,4562,100000000,130000000,PG,"['Family', 'Fantasy', 'Animation', 'Action', 'Adventure']","['Other', ' Other', ' Other', ' Warner Bros. Pictures']",8.011529411764705,2.423
+2001-11-16,340.464,7.9,21409,125000000,976475550,PG,"['Adventure', 'Fantasy']","['Other', ' Other', ' Other', ' Other', ' Other', ' Other']",2.7659649122807015,3.625
+2021-05-25,358.431,7.8,3901,39000000,199166992,R,"['Horror', 'Mystery', 'Thriller']","['Warner Bros. Pictures', ' Heyday Films', ' Other']",2.7151875,3.178
+2009-03-19,349.502,6.1,4086,50000000,155446362,PG-13,"['Action', 'Mystery', 'Science Fiction', 'Thriller']","['Other', ' Other', ' Universal Pictures', ' Other', ' Other']",2.712217391304348,0.84
+2021-06-30,290.622,7.4,1424,18000000,76981630,R,"['Horror', 'Action', 'Thriller']","['Other', ' Walt Disney Pictures']",1.9203902439024392,1.055
+2017-10-27,311.733,8.2,14846,175000000,800526015,PG,"['Family', 'Animation', 'Fantasy', 'Music', 'Comedy', 'Adventure']","['Other', ' Warner Bros. Pictures', ' Other', ' Other', ' Other', ' Other']",1.0832941176470587,1.124
+2021-03-31,281.004,6.9,1424,10000000,30763855,PG-13,['Horror'],"['Warner Bros. Pictures', ' Other', ' Other', ' Other', ' Other', ' Other']",1.3295277777777779,2.66
+2021-09-01,271.228,7.0,1018,40000000,24640084,R,"['Horror', 'Mystery', 'Thriller']","['Other', ' Other', ' Other', ' Other']",3.704794117647059,4.386
+2002-11-13,300.024,7.7,17285,100000000,876688482,PG,"['Adventure', 'Fantasy']","['Other', ' Columbia Pictures', ' Other', ' Other', ' Other', ' Other', ' Other', ' Sony Pictures']",2.580931506849315,3.625
+2020-12-16,302.708,6.6,6150,200000000,165160005,PG-13,"['Action', 'Adventure', 'Fantasy']",['Marvel Studios'],1.3994324324324323,1.849
+2019-04-24,320.579,8.3,19544,356000000,2797800564,PG-13,"['Adventure', 'Science Fiction', 'Action']","['Other', ' Other', ' Sony Pictures', ' Other']",7.105941747572816,3.3360000000000003
+2004-05-31,275.602,8.0,16991,130000000,789804554,PG,"['Adventure', 'Fantasy']","['Warner Bros. Pictures', ' Heyday Films', ' Other']",3.4682884615384615,2.57
+2020-12-03,306.128,6.9,2261,60000000,25814306,PG-13,"['Action', 'Fantasy', 'Adventure']","['Other', ' Other', ' Other', ' Other', ' Other', ' Other', ' Other', ' Other']",3.2850526315789472,2.528
+2005-11-16,267.824,7.8,16327,150000000,895921036,PG-13,"['Adventure', 'Fantasy', 'Family']",['Other'],3.2493283582089556,1.702
+2012-04-25,269.884,7.7,25727,220000000,1518815515,PG-13,"['Science Fiction', 'Action', 'Adventure']",['Marvel Studios'],2.5945625,2.854
+2021-02-11,248.171,7.1,1845,50000000,132000000,PG,"['Comedy', 'Family', 'Animation']","['Other', ' Other', ' Other']",2.3412456140350875,1.4
+2014-12-06,270.99,7.9,1078,1000000,16500000,PG-13,"['Action', 'Romance', 'Animation']","['Warner Bros. Pictures', ' Heyday Films', ' Other']",2.864294117647059,0.6
+2021-01-15,243.813,7.2,970,23000000,22039969,PG-13,"['Action', 'Thriller', 'Crime']","['Walt Disney Pictures', ' Other']",3.90685,0.716
+2008-07-01,257.905,6.3,7696,150000000,629443428,PG-13,"['Fantasy', 'Action']","['Other', ' Other', ' Other', ' Other', ' Other', ' Other']",2.3936,4.721
+2020-12-25,237.401,8.2,7224,150000000,136384442,PG,"['Animation', 'Comedy', 'Fantasy', 'Family']","['Warner Bros. Pictures', ' Heyday Films']",2.2681935483870967,3.2
+2010-10-17,254.968,7.8,15239,250000000,954305868,PG-13,"['Adventure', 'Fantasy']","['Other', ' Other', ' Other', ' Other', ' Other', ' Other', ' Other', ' Other', ' Other']",3.21792,2.643
+2021-05-20,231.074,7.8,293,30000000,17635215,PG,"['Animation', 'Adventure', 'Family', 'Western']","['Universal Pictures', ' Other']",4.680157894736842,1.094
+2009-07-07,237.703,7.7,15302,250000000,933959197,PG,"['Adventure', 'Fantasy']","['Warner Bros. Pictures', ' Other', ' Heyday Films']",3.9048490566037737,2.643
+2011-07-07,246.741,8.1,16423,125000000,1341511219,PG-13,"['Fantasy', 'Adventure']","['Other', ' Other', ' Other']",2.997289719626168,2.643
+2020-08-14,225.261,7.7,2351,60000000,4700000,PG,"['Family', 'Animation', 'Fantasy', 'Adventure', 'Comedy']","['Columbia Pictures', ' Other', ' Sony Pictures']",6.1884999999999994,2.845
+2016-10-07,228.943,8.2,10184,40000000,175302354,R,"['Drama', 'History', 'War']","['Warner Bros. Pictures', ' Heyday Films']",2.7469454545454544,14.117
+2007-06-28,221.089,7.7,15548,150000000,938212738,PG-13,"['Adventure', 'Fantasy', 'Mystery']","['Warner Bros. Pictures', ' Heyday Films']",3.0575853658536585,2.643
+2018-08-03,217.081,8.0,684,12000000,31478826,PG-13,"['Animation', 'Action', 'Adventure', 'Fantasy']","['Other', ' Other', ' Other', ' Other', ' Other', ' Other', ' Other', ' Other', ' Other', ' Other']",2.059576923076923,1.534
+2021-03-25,240.08,7.4,440,45000000,153000000,PG,"['Family', 'Comedy', 'Adventure', 'Animation', 'Fantasy']","['Other', ' Other', ' Other']",5.0885,2.516
+2015-04-18,224.749,6.8,1245,5000000,61768190,NR,"['Action', 'Animation', 'Science Fiction']","['Other', ' Sony Pictures', ' Columbia Pictures', ' Laura Ziskin Productions', ' Marvel Entertainment']",3.0595,0.6
+2021-03-18,196.628,8.3,3676,17000000,61779301,R,"['Action', 'Crime', 'Thriller']","['Warner Bros. Pictures', ' Heyday Films']",2.135095238095238,1.4
+2004-06-25,239.838,7.1,11607,200000000,783766341,PG-13,"['Action', 'Adventure', 'Fantasy']","['Other', ' Other', ' Other']",2.7013483146067414,2.813
+2009-04-16,215.596,6.0,2130,20000000,34560577,R,"['Action', 'Thriller', 'Crime']","['Universal Pictures', ' Other', ' Other', ' Other', ' Other']",1.9200208333333333,1.7865000000000002
+2016-04-27,182.305,7.4,18869,250000000,1153296293,PG-13,"['Adventure', 'Action', 'Science Fiction']","['Other', ' Marvel Entertainment', ' Other', ' Other', ' Other']",3.516097087378641,3.3360000000000003
+2014-09-10,193.562,7.2,14023,34000000,348319861,PG-13,"['Action', 'Mystery', 'Science Fiction', 'Thriller']","['Other', ' Other', ' Other', ' Other', ' Other', ' Other']",2.0721666666666665,3.269
