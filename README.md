@@ -31,6 +31,8 @@ At first we used Zoom for our meetings due to familiarity of the app through cla
 * __*CIRCLE*__: Sean, Lanisha
 * __*X*__: Peter
 
+## Presentation 
+Our presentation on Google Slides can be found [here](https://docs.google.com/presentation/d/1K_GDT5Z9gXgQocvto1T3PfcPokiHEzsp4WKGlrQmI7w/edit?usp=sharing).
 
 ## Segment 1: Notes
 * Pre-viz variables: actor/popularity_score, actor_id, director, director_id, studio, studio_id, producer, producer_id, budget, genre_id, genre, release date (encoded), release month (encoded), popularity, vote_avg, language, title, title_id, imdb_id, revenue
@@ -48,4 +50,5 @@ At first we used Zoom for our meetings due to familiarity of the app through cla
   * boolean value for ML will be "hit"/"flop" (boolean pending) which will represent whether a movie made back its theorhetical budget or not
   * for movies, a typical rule of thumb on if it made its money back is 2x the original budget. the extra half is used for marketing.
   * if revenue > (2 * budget) then it made a profit
+* Machine learning skeletons are placed in Tables folder
 
