@@ -9,7 +9,7 @@ CREATE TABLE movie_data (
 	budget INT8,
 	revenue INT8,
 	ratings VARCHAR(7),
-    studios VARCHAR(100),
+    studios VARCHAR(150),
     genres VARCHAR(100),
     PRIMARY KEY (movie_id)
 );
@@ -27,6 +27,5 @@ CREATE TABLE director (
 );
 
 DROP TABLE director;
-DROP TABLE studio;
 DROP TABLE actor;
 DROP TABLE movie_data;
