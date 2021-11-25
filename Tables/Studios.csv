@@ -1,21 +1,21 @@
 studio_id,studio_name,origin_country,movie_id
 420.0,Marvel Studios,US,566525
-7576.0,Eon Productions,GB,370172
-21.0,Metro-Goldwyn-Mayer,US,370172
-60.0,United Artists,US,370172
-33.0,Universal Pictures,US,370172
 7505.0,Marvel Entertainment,US,580489
 84041.0,Pascal Pictures,US,580489
 5.0,Columbia Pictures,US,580489
 34.0,Sony Pictures,US,580489
 81620.0,Tencent Pictures,CN,580489
+7576.0,Eon Productions,GB,370172
+21.0,Metro-Goldwyn-Mayer,US,370172
+60.0,United Artists,US,370172
+33.0,Universal Pictures,US,370172
 420.0,Marvel Studios,US,524434
-923.0,Legendary Pictures,US,438631
 6626.0,Voltage Pictures,US,744275
 107108.0,Wattpad,US,744275
 88606.0,Vertical Entertainment,US,744275
 158529.0,Ethea Entertainment,,744275
 107107.0,CalMaple Films,US,744275
+923.0,Legendary Pictures,US,438631
 27711.0,Berlanti Productions,US,550988
 2575.0,21 Laps Entertainment,US,550988
 104228.0,Maximum Effort,US,550988
@@ -29,42 +29,38 @@ studio_id,studio_name,origin_country,movie_id
 84041.0,Pascal Pictures,US,335983
 7505.0,Marvel Entertainment,US,335983
 81620.0,Tencent Pictures,CN,335983
-420.0,Marvel Studios,US,429617
-5.0,Columbia Pictures,US,429617
-84041.0,Pascal Pictures,US,429617
 4.0,Paramount,US,568620
 21.0,Metro-Goldwyn-Mayer,US,568620
 435.0,Di Bonaventura Pictures,US,568620
 8147.0,Entertainment One,CA,568620
 82819.0,Skydance Media,US,568620
 2598.0,Hasbro,,568620
-694.0,StudioCanal,FR,574060
-131523.0,STX Films,US,574060
-264.0,Studio Babelsberg,DE,574060
-104.0,Canal+,FR,574060
-10611.0,Ciné+,FR,574060
-99132.0,The Picture Company,US,574060
-420.0,Marvel Studios,US,315635
-5.0,Columbia Pictures,US,315635
-84041.0,Pascal Pictures,US,315635
-34034.0,LStar Capital,US,315635
-34.0,Sony Pictures,US,315635
+7505.0,Marvel Entertainment,US,102382
+5.0,Columbia Pictures,US,102382
+31828.0,Avi Arad Productions,US,102382
+53462.0,Matt Tolmach Productions,US,102382
+34.0,Sony Pictures,US,102382
 5887.0,ufotable,JP,635302
 2883.0,Aniplex,JP,635302
 2918.0,Shueisha,JP,635302
 91520.0,STUDIO MAUSU,JP,635302
 521.0,DreamWorks Animation,US,459151
 33.0,Universal Pictures,US,459151
-7505.0,Marvel Entertainment,US,102382
-5.0,Columbia Pictures,US,102382
-31828.0,Avi Arad Productions,US,102382
-53462.0,Matt Tolmach Productions,US,102382
-34.0,Sony Pictures,US,102382
-19551.0,Marvel Enterprises,US,557
-5.0,Columbia Pictures,US,557
-34.0,Sony Pictures,US,557
-326.0,Laura Ziskin Productions,,557
-7505.0,Marvel Entertainment,US,557
+694.0,StudioCanal,FR,574060
+131523.0,STX Films,US,574060
+264.0,Studio Babelsberg,DE,574060
+104.0,Canal+,FR,574060
+10611.0,Ciné+,FR,574060
+99132.0,The Picture Company,US,574060
+10146.0,Focus Features,US,576845
+6705.0,Film4 Productions,GB,576845
+10163.0,Working Title Films,GB,576845
+443.0,Big Talk Productions,GB,576845
+131464.0,Complete Fiction,GB,576845
+10338.0,Perfect World Pictures,CN,576845
+420.0,Marvel Studios,US,429617
+5.0,Columbia Pictures,US,429617
+84041.0,Pascal Pictures,US,429617
 3.0,Pixar,US,508943
 2.0,Walt Disney Pictures,US,508943
 2.0,Walt Disney Pictures,US,451048
@@ -77,43 +73,52 @@ studio_id,studio_name,origin_country,movie_id
 1225.0,One Race,US,385128
 34530.0,Perfect Storm Entertainment,US,385128
 154215.0,ZXY MOVIES,,385128
-9993.0,DC Entertainment,US,436969
-128064.0,DC Films,US,436969
-507.0,Atlas Entertainment,US,436969
-429.0,DC Comics,US,436969
-11565.0,The Safran Company,US,436969
 33.0,Universal Pictures,US,610253
 3172.0,Blumhouse Productions,US,610253
 145708.0,Home Again Productions,,610253
 14.0,Miramax,US,610253
 20848.0,Rough House Pictures,US,610253
 15822.0,Trancas International Films,US,610253
+9993.0,DC Entertainment,US,436969
+128064.0,DC Films,US,436969
+507.0,Atlas Entertainment,US,436969
+429.0,DC Comics,US,436969
+11565.0,The Safran Company,US,436969
+420.0,Marvel Studios,US,497698
+420.0,Marvel Studios,US,315635
+5.0,Columbia Pictures,US,315635
+84041.0,Pascal Pictures,US,315635
+34034.0,LStar Capital,US,315635
+34.0,Sony Pictures,US,315635
 5.0,Columbia Pictures,US,559
 326.0,Laura Ziskin Productions,,559
 420.0,Marvel Studios,US,559
-420.0,Marvel Studios,US,497698
 25120.0,Warner Animation Group,US,379686
 81170.0,SpringHill Entertainment,US,379686
 148495.0,Proximity Media,US,379686
-76907.0,Atomic Monster,US,460465
-8000.0,Broken Road Productions,US,460465
-12.0,New Line Cinema,US,460465
-2.0,Walt Disney Pictures,US,337404
-174.0,Warner Bros. Pictures,US,399566
-923.0,Legendary Pictures,US,399566
-34.0,Sony Pictures,US,425909
 5.0,Columbia Pictures,US,425909
 13240.0,Bron Studios,CA,425909
 2364.0,The Montecito Picture Company,US,425909
 84042.0,Ghost Corps,US,425909
+2.0,Walt Disney Pictures,US,337404
+19551.0,Marvel Enterprises,US,557
+5.0,Columbia Pictures,US,557
+34.0,Sony Pictures,US,557
+326.0,Laura Ziskin Productions,,557
+7505.0,Marvel Entertainment,US,557
+76907.0,Atomic Monster,US,460465
+8000.0,Broken Road Productions,US,460465
+12.0,New Line Cinema,US,460465
+33.0,Universal Pictures,US,529203
+521.0,DreamWorks Animation,US,529203
 14.0,Miramax,US,637649
 21.0,Metro-Goldwyn-Mayer,US,637649
 2900.0,Toff Guy Films,GB,637649
 1632.0,Lionsgate,US,637649
 141391.0,CAA Media Finance,US,637649
 420.0,Marvel Studios,US,299536
-33.0,Universal Pictures,US,529203
-521.0,DreamWorks Animation,US,529203
+174.0,Warner Bros. Pictures,US,399566
+923.0,Legendary Pictures,US,399566
 174.0,Warner Bros. Pictures,US,791373
 114152.0,The Stone Quarry,US,791373
 507.0,Atlas Entertainment,US,791373
@@ -122,13 +127,9 @@ studio_id,studio_name,origin_country,movie_id
 444.0,Dune Entertainment,US,791373
 128064.0,DC Films,US,791373
 429.0,DC Comics,US,791373
-34.0,Sony Pictures,US,324857
-5.0,Columbia Pictures,US,324857
-7505.0,Marvel Entertainment,US,324857
-31828.0,Avi Arad Productions,US,324857
-77973.0,Lord Miller Productions,US,324857
-84041.0,Pascal Pictures,US,324857
-2251.0,Sony Pictures Animation,US,324857
+33.0,Universal Pictures,US,631843
+12236.0,Blinding Edge Pictures,US,631843
+10338.0,Perfect World Pictures,CN,631843
 156668.0,HMV Digital China Group Limited,,525660
 156669.0,Tecmo,,525660
 20542.0,Sun Entertainment Culture,,525660
@@ -145,62 +146,48 @@ studio_id,studio_name,origin_country,movie_id
 574.0,Lightstorm Entertainment,US,19995
 25.0,20th Century Fox,US,19995
 290.0,Ingenious Media,GB,19995
-33.0,Universal Pictures,US,631843
-12236.0,Blinding Edge Pictures,US,631843
-10338.0,Perfect World Pictures,CN,631843
 2.0,Walt Disney Pictures,US,527774
 6125.0,Walt Disney Animation Studios,US,527774
-768.0,Ghost House Pictures,US,482373
-11341.0,Stage 6 Films,US,482373
-17393.0,Good Universe,US,482373
-34.0,Sony Pictures,US,482373
-125512.0,Bad Hombre Films,US,482373
-3287.0,Screen Gems,US,482373
-12.0,New Line Cinema,US,423108
-11565.0,The Safran Company,US,423108
-76907.0,Atomic Monster,US,423108
-174.0,Warner Bros. Pictures,US,423108
-491.0,Summit Entertainment,US,13811
-1423.0,Escape Artists,US,13811
-908.0,Mystery Clock Cinema,AU,13811
-11844.0,Kaplan/Perrone Entertainment,,13811
-11845.0,Wintergreen Productions,,13811
-500.0,Goldcrest,GB,13811
-174.0,Warner Bros. Pictures,US,671
-437.0,Heyday Films,GB,671
-436.0,1492 Pictures,US,671
-3172.0,Blumhouse Productions,US,602223
-2481.0,Platinum Dunes,US,602223
-33.0,Universal Pictures,US,602223
-10338.0,Perfect World Pictures,CN,602223
-138783.0,Man in A Tree,US,602223
-3.0,Pixar,US,354912
-2.0,Walt Disney Pictures,US,354912
+34.0,Sony Pictures,US,324857
+5.0,Columbia Pictures,US,324857
+7505.0,Marvel Entertainment,US,324857
+31828.0,Avi Arad Productions,US,324857
+77973.0,Lord Miller Productions,US,324857
+84041.0,Pascal Pictures,US,324857
+2251.0,Sony Pictures Animation,US,324857
 9993.0,DC Entertainment,US,464052
 174.0,Warner Bros. Pictures,US,464052
 114152.0,The Stone Quarry,US,464052
 128064.0,DC Films,US,464052
 507.0,Atlas Entertainment,US,464052
 429.0,DC Comics,US,464052
-174.0,Warner Bros. Pictures,US,619778
-12.0,New Line Cinema,US,619778
-5233.0,Starlight International Media,,619778
-121439.0,Midas Innovation,,619778
-76907.0,Atomic Monster,US,619778
-122178.0,BOOM! Studios,US,619778
-4.0,Paramount,US,520763
-2481.0,Platinum Dunes,US,520763
-29312.0,Sunday Night,US,520763
-160175.0,Buffalo FilmWorks,,520763
-41756.0,GH Three,US,8960
-5.0,Columbia Pictures,US,8960
-7295.0,Relativity Media,US,8960
-28064.0,Blue Light,US,8960
-433.0,Weed Road Pictures,US,8960
-675.0,Forward Pass,US,8960
-907.0,Overbrook Entertainment,US,8960
-34.0,Sony Pictures,US,8960
-420.0,Marvel Studios,US,299534
+491.0,Summit Entertainment,US,13811
+1423.0,Escape Artists,US,13811
+908.0,Mystery Clock Cinema,AU,13811
+11844.0,Kaplan/Perrone Entertainment,,13811
+11845.0,Wintergreen Productions,,13811
+500.0,Goldcrest,GB,13811
+768.0,Ghost House Pictures,US,482373
+11341.0,Stage 6 Films,US,482373
+17393.0,Good Universe,US,482373
+34.0,Sony Pictures,US,482373
+125512.0,Bad Hombre Films,US,482373
+3287.0,Screen Gems,US,482373
+174.0,Warner Bros. Pictures,US,671
+437.0,Heyday Films,GB,671
+436.0,1492 Pictures,US,671
+12.0,New Line Cinema,US,423108
+11565.0,The Safran Company,US,423108
+76907.0,Atomic Monster,US,423108
+174.0,Warner Bros. Pictures,US,423108
+3.0,Pixar,US,354912
+2.0,Walt Disney Pictures,US,354912
+3172.0,Blumhouse Productions,US,602223
+2481.0,Platinum Dunes,US,602223
+33.0,Universal Pictures,US,602223
+10338.0,Perfect World Pictures,CN,602223
+138783.0,Man in A Tree,US,602223
+2883.0,Aniplex,JP,317442
 768.0,Ghost House Pictures,US,632357
 3287.0,Screen Gems,US,632357
 34.0,Sony Pictures,US,632357
@@ -208,6 +195,24 @@ studio_id,studio_name,origin_country,movie_id
 174.0,Warner Bros. Pictures,US,672
 437.0,Heyday Films,GB,672
 436.0,1492 Pictures,US,672
+420.0,Marvel Studios,US,299534
+174.0,Warner Bros. Pictures,US,674
+437.0,Heyday Films,GB,674
+462.0,Patalex IV Productions Limited,,674
+7220.0,CAPCOM,JP,458576
+47.0,Constantin Film,DE,458576
+248.0,Impact Pictures,CA,458576
+81620.0,Tencent Pictures,CN,458576
+882.0,Toho Co.,JP,458576
+3287.0,Screen Gems,US,458576
+34.0,Sony Pictures,US,458576
+4.0,Paramount,US,520763
+2481.0,Platinum Dunes,US,520763
+29312.0,Sunday Night,US,520763
+160175.0,Buffalo FilmWorks,,520763
+420.0,Marvel Studios,US,24428
+174.0,Warner Bros. Pictures,US,12444
+437.0,Heyday Films,GB,12444
 80292.0,Sculptor Media,US,634528
 5357.0,Zero Gravity Management,US,634528
 94694.0,Cutting Edge Group,US,634528
@@ -216,31 +221,34 @@ studio_id,studio_name,origin_country,movie_id
 6626.0,Voltage Pictures,US,634528
 10427.0,Open Road Films,US,634528
 137972.0,Briarcliff Entertainment,US,634528
-2883.0,Aniplex,JP,317442
-420.0,Marvel Studios,US,24428
-7220.0,CAPCOM,JP,458576
-47.0,Constantin Film,DE,458576
-248.0,Impact Pictures,CA,458576
-81620.0,Tencent Pictures,CN,458576
-882.0,Toho Co.,JP,458576
-3287.0,Screen Gems,US,458576
-34.0,Sony Pictures,US,458576
 25120.0,Warner Animation Group,US,587807
 8922.0,Turner Entertainment,US,587807
 77061.0,The Story Company,,587807
-174.0,Warner Bros. Pictures,US,674
-437.0,Heyday Films,GB,674
-462.0,Patalex IV Productions Limited,,674
-2.0,Walt Disney Pictures,US,508442
-3.0,Pixar,US,508442
-8921.0,United Plankton Pictures,US,400160
-2348.0,Nickelodeon Movies,US,400160
-24955.0,Paramount Animation,US,400160
-4.0,Paramount,US,400160
-2531.0,MRC,US,400160
-8649.0,Mikros Image,FR,400160
+174.0,Warner Bros. Pictures,US,12445
+437.0,Heyday Films,GB,12445
+174.0,Warner Bros. Pictures,US,673
+436.0,1492 Pictures,US,673
+437.0,Heyday Films,GB,673
+19092.0,P of A Productions Limited,,673
+1645.0,Scott Free Productions,GB,644495
+21.0,Metro-Goldwyn-Mayer,US,644495
+13240.0,Bron Studios,CA,644495
 174.0,Warner Bros. Pictures,US,767
 437.0,Heyday Films,GB,767
+174.0,Warner Bros. Pictures,US,619778
+12.0,New Line Cinema,US,619778
+5233.0,Starlight International Media,,619778
+121439.0,Midas Innovation,,619778
+76907.0,Atomic Monster,US,619778
+122178.0,BOOM! Studios,US,619778
+41756.0,GH Three,US,8960
+5.0,Columbia Pictures,US,8960
+7295.0,Relativity Media,US,8960
+28064.0,Blue Light,US,8960
+433.0,Weed Road Pictures,US,8960
+675.0,Forward Pass,US,8960
+907.0,Overbrook Entertainment,US,8960
+34.0,Sony Pictures,US,8960
 2849.0,BONES,JP,505262
 11727.0,Yomiuri Telecasting Corporation,JP,505262
 2918.0,Shueisha,JP,505262
@@ -250,21 +258,13 @@ studio_id,studio_name,origin_country,movie_id
 3466.0,Movic,JP,505262
 882.0,Toho Co.,JP,505262
 155588.0,Toho Music,JP,505262
+2.0,Walt Disney Pictures,US,508442
+3.0,Pixar,US,508442
 33.0,Universal Pictures,US,637693
 521.0,DreamWorks Animation,US,637693
-174.0,Warner Bros. Pictures,US,673
-436.0,1492 Pictures,US,673
-437.0,Heyday Films,GB,673
-1632.0,Lionsgate,US,15092
-126.0,Lakeshore Entertainment,US,15092
-89394.0,RadicalMedia,US,15092
 5.0,Columbia Pictures,US,522478
 7291.0,Olive Bridge Entertainment,US,522478
 34.0,Sony Pictures,US,522478
-174.0,Warner Bros. Pictures,US,675
-437.0,Heyday Films,GB,675
-174.0,Warner Bros. Pictures,US,12445
-437.0,Heyday Films,GB,12445
 50481.0,Vendian Entertainment,US,324786
 491.0,Summit Entertainment,US,324786
 10246.0,Cross Creek Pictures,US,324786
@@ -275,34 +275,25 @@ studio_id,studio_name,origin_country,movie_id
 8915.0,Pandemonium,,324786
 13241.0,Demarest Films,,324786
 1632.0,Lionsgate,US,324786
+174.0,Warner Bros. Pictures,US,675
+437.0,Heyday Films,GB,675
 7485.0,Fox International Productions,US,303857
 5542.0,Toei Animation,JP,303857
 104652.0,Fizz Sound Creation,JP,303857
-19551.0,Marvel Enterprises,US,558
-34.0,Sony Pictures,US,558
-5.0,Columbia Pictures,US,558
-326.0,Laura Ziskin Productions,,558
-7505.0,Marvel Entertainment,US,558
-174.0,Warner Bros. Pictures,US,12444
-437.0,Heyday Films,GB,12444
-83857.0,Ubisoft Film & Television,FR,800497
-46453.0,Vanishing Angle,US,800497
-307.0,IFC Films,US,800497
-33.0,Universal Pictures,US,615457
-121470.0,87North Productions,US,615457
-86647.0,Odenkirk Provissiero Entertainment,US,615457
-123230.0,Eighty Two Films,US,615457
-154091.0,Perfect World Pictures,,615457
-25.0,20th Century Fox,US,293660
-7505.0,Marvel Entertainment,US,293660
-431.0,The Donners' Company,US,293660
-22213.0,TSG Entertainment,US,293660
-28788.0,Genre Films,US,293660
-290.0,Ingenious Media,GB,198663
-3672.0,Gotham Group,US,198663
-8569.0,Dayday Films,GB,198663
-12292.0,Temple Hill Entertainment,US,198663
-22213.0,TSG Entertainment,US,198663
-25.0,20th Century Fox,US,198663
-420.0,Marvel Studios,US,271110
-420.0,Marvel Studios,US,10138
+21.0,Metro-Goldwyn-Mayer,US,565028
+88934.0,Monkeypaw Productions,US,565028
+13240.0,Bron Studios,CA,565028
+33.0,Universal Pictures,US,565028
+53152.0,Creative Wealth Media Finance,CA,565028
+8921.0,United Plankton Pictures,US,400160
+2348.0,Nickelodeon Movies,US,400160
+24955.0,Paramount Animation,US,400160
+4.0,Paramount,US,400160
+2531.0,MRC,US,400160
+8649.0,Mikros Image,FR,400160
+10221.0,Walden Media,US,72545
+12.0,New Line Cinema,US,72545
+1836.0,Contrafilm,,72545
+1632.0,Lionsgate,US,15092
+126.0,Lakeshore Entertainment,US,15092
+89394.0,RadicalMedia,US,15092
