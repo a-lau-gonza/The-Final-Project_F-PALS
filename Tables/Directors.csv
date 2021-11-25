@@ -1,85 +1,81 @@
 name,director_id,gender,director_popularity,movie_id
-Destin Daniel Cretton,1144604.0,2.0,4.245,566525
-Cary Joji Fukunaga,87257.0,2.0,7.496,370172
-Andy Serkis,1333.0,2.0,8.68,580489
-Chloé Zhao,1395183.0,1.0,2.038,524434
-Denis Villeneuve,137427.0,2.0,8.809,438631
-Castille Landon,1448492.0,1.0,2.444,744275
-Shawn Levy,17825.0,2.0,9.28,550988
-Marc Webb,87742.0,2.0,2.337,1930
-Ruben Fleischer,91268.0,2.0,2.476,335983
-Jon Watts,1293994.0,2.0,3.949,429617
-Robert Schwentke,57270.0,2.0,2.956,568620
-Navot Papushado,529184.0,2.0,0.972,574060
-Jon Watts,1293994.0,2.0,3.949,315635
-Haruo Sotozaki,1283010.0,2.0,5.481,635302
-Tom McGrath,18864.0,2.0,1.212,459151
-Marc Webb,87742.0,2.0,2.337,102382
-Sam Raimi,7623.0,2.0,2.813,557
-Enrico Casarosa,930567.0,2.0,3.623,508943
-Jaume Collet-Serra,59521.0,2.0,1.4,451048
-Justin Lin,58189.0,2.0,4.594,385128
-James Gunn,15218.0,2.0,2.747,436969
-David Gordon Green,64141.0,2.0,3.275,610253
-Sam Raimi,7623.0,2.0,2.813,559
-Cate Shortland,93286.0,1.0,2.4,497698
-Malcolm D. Lee,72024.0,2.0,0.778,379686
-Simon McQuoid,1828590.0,2.0,0.828,460465
-Craig Gillespie,50767.0,2.0,2.273,337404
-Adam Wingard,98631.0,2.0,2.138,399566
-Jason Reitman,52443.0,2.0,3.232,425909
-Guy Ritchie,956.0,2.0,10.534,637649
-Anthony Russo,19271.0,2.0,3.015,299536
-Joe Russo,19272.0,2.0,3.657,299536
-Joel Crawford,1450348.0,0.0,1.543,529203
-Zack Snyder,15217.0,2.0,6.913,791373
-Rodney Rothman,59918.0,2.0,1.024,324857
-Peter Ramsey,151007.0,2.0,1.4,324857
-Bob Persichetti,936670.0,2.0,0.84,324857
-Roy Chow Hin-Yeung,125101.0,0.0,0.648,525660
-James Cameron,2710.0,2.0,6.701,19995
-M. Night Shyamalan,11614.0,2.0,5.794,631843
-Don Hall,227439.0,2.0,3.596,527774
-Carlos López Estrada,1932178.0,2.0,1.25,527774
-Rodo Sayagues,1046225.0,2.0,0.765,482373
-Michael Chaves,1607672.0,2.0,3.178,423108
-Alex Proyas,21085.0,2.0,0.84,13811
-Chris Columbus,10965.0,2.0,3.625,671
-Everardo Gout,1192942.0,0.0,1.055,602223
-Lee Unkrich,8.0,2.0,1.124,354912
-Patty Jenkins,6884.0,1.0,1.849,464052
-James Wan,2127.0,2.0,4.386,619778
-John Krasinski,17697.0,2.0,6.125,520763
-Peter Berg,36602.0,2.0,4.721,8960
-Anthony Russo,19271.0,2.0,3.015,299534
-Joe Russo,19272.0,2.0,3.657,299534
-Evan Spiliotopoulos,80675.0,2.0,2.66,632357
-Chris Columbus,10965.0,2.0,3.625,672
-Robert Lorenz,4746.0,2.0,0.716,634528
-Tsuneo Kobayashi,2320943.0,0.0,0.6,317442
-Joss Whedon,12891.0,2.0,2.854,24428
-Paul W. S. Anderson,4014.0,2.0,2.528,458576
-Tim Story,20400.0,2.0,1.4,587807
-Mike Newell,10723.0,2.0,1.702,674
-Pete Docter,12890.0,2.0,3.2,508442
-Tim Hill,49903.0,2.0,2.845,400160
-David Yates,11343.0,2.0,2.643,767
-Kenji Nagasaki,1307036.0,2.0,1.534,505262
-Elaine Bogan,1400404.0,1.0,1.094,637693
-Alfonso Cuarón,11218.0,2.0,2.57,673
-Brian Taylor,20192.0,2.0,2.422,15092
-Mark Neveldine,20193.0,2.0,1.151,15092
-Will Gluck,82511.0,2.0,2.516,522478
-David Yates,11343.0,2.0,2.643,675
-David Yates,11343.0,2.0,2.643,12445
-Mel Gibson,2461.0,2.0,14.117,324786
+Destin Daniel Cretton,1144604.0,2.0,5.119,566525
+Andy Serkis,1333.0,2.0,13.077,580489
+Cary Joji Fukunaga,87257.0,2.0,4.167,370172
+Chloé Zhao,1395183.0,1.0,2.397,524434
+Castille Landon,1448492.0,1.0,2.58,744275
+Denis Villeneuve,137427.0,2.0,7.87,438631
+Shawn Levy,17825.0,2.0,8.387,550988
+Marc Webb,87742.0,2.0,4.102,1930
+Ruben Fleischer,91268.0,2.0,1.215,335983
+Robert Schwentke,57270.0,2.0,2.892,568620
+Marc Webb,87742.0,2.0,4.102,102382
+Haruo Sotozaki,1283010.0,2.0,4.836,635302
+Tom McGrath,18864.0,2.0,3.326,459151
+Navot Papushado,529184.0,2.0,1.258,574060
+Edgar Wright,11090.0,2.0,7.468,576845
+Jon Watts,1293994.0,2.0,4.835,429617
+Enrico Casarosa,930567.0,2.0,2.084,508943
+Jaume Collet-Serra,59521.0,2.0,2.503,451048
+Justin Lin,58189.0,2.0,6.4,385128
+David Gordon Green,64141.0,2.0,2.385,610253
+James Gunn,15218.0,2.0,4.546,436969
+Cate Shortland,93286.0,1.0,1.805,497698
+Jon Watts,1293994.0,2.0,4.835,315635
+Sam Raimi,7623.0,2.0,2.914,559
+Malcolm D. Lee,72024.0,2.0,2.588,379686
+Jason Reitman,52443.0,2.0,4.999,425909
+Craig Gillespie,50767.0,2.0,1.814,337404
+Sam Raimi,7623.0,2.0,2.914,557
+Simon McQuoid,1828590.0,2.0,0.668,460465
+Joel Crawford,1450348.0,0.0,1.554,529203
+Guy Ritchie,956.0,2.0,7.847,637649
+Anthony Russo,19271.0,2.0,3.782,299536
+Joe Russo,19272.0,2.0,3.955,299536
+Adam Wingard,98631.0,2.0,2.824,399566
+Zack Snyder,15217.0,2.0,7.887,791373
+M. Night Shyamalan,11614.0,2.0,5.992,631843
+Roy Chow Hin-Yeung,125101.0,0.0,0.609,525660
+James Cameron,2710.0,2.0,4.229,19995
+Don Hall,227439.0,2.0,3.973,527774
+Carlos López Estrada,1932178.0,2.0,1.96,527774
+Rodney Rothman,59918.0,2.0,1.689,324857
+Peter Ramsey,151007.0,2.0,2.503,324857
+Bob Persichetti,936670.0,2.0,1.4,324857
+Patty Jenkins,6884.0,1.0,3.874,464052
+Alex Proyas,21085.0,2.0,0.6,13811
+Rodo Sayagues,1046225.0,2.0,1.4,482373
+Chris Columbus,10965.0,2.0,2.566,671
+Michael Chaves,1607672.0,2.0,3.601,423108
+Lee Unkrich,8.0,2.0,1.822,354912
+Everardo Gout,1192942.0,0.0,0.6,602223
+Tsuneo Kobayashi,2320943.0,0.0,1.4,317442
+Evan Spiliotopoulos,80675.0,2.0,4.208,632357
+Chris Columbus,10965.0,2.0,2.566,672
+Anthony Russo,19271.0,2.0,3.782,299534
+Joe Russo,19272.0,2.0,3.955,299534
+Mike Newell,10723.0,2.0,2.695,674
+Paul W. S. Anderson,4014.0,2.0,1.454,458576
+John Krasinski,17697.0,2.0,6.677,520763
+Joss Whedon,12891.0,2.0,6.159,24428
+David Yates,11343.0,2.0,2.813,12444
+Robert Lorenz,4746.0,2.0,1.286,634528
+Tim Story,20400.0,2.0,1.646,587807
+David Yates,11343.0,2.0,2.813,12445
+Alfonso Cuarón,11218.0,2.0,3.333,673
+Ridley Scott,578.0,2.0,13.326,644495
+David Yates,11343.0,2.0,2.813,767
+James Wan,2127.0,2.0,4.306,619778
+Peter Berg,36602.0,2.0,3.255,8960
+Kenji Nagasaki,1307036.0,2.0,0.787,505262
+Pete Docter,12890.0,2.0,3.811,508442
+Elaine Bogan,1400404.0,1.0,1.4,637693
+Will Gluck,82511.0,2.0,4.357,522478
+Mel Gibson,2461.0,2.0,13.329,324786
+David Yates,11343.0,2.0,2.813,675
 Tadayoshi Yamamuro,1083452.0,0.0,0.6,303857
-Sam Raimi,7623.0,2.0,2.813,558
-David Yates,11343.0,2.0,2.643,12444
-Josh Ruben,1448874.0,2.0,0.6,800497
-Ilya Naishuller,1169024.0,2.0,1.4,615457
-Tim Miller,55252.0,2.0,1.943,293660
-Wes Ball,1179066.0,2.0,3.269,198663
-Anthony Russo,19271.0,2.0,3.015,271110
-Joe Russo,19272.0,2.0,3.657,271110
-Jon Favreau,15277.0,2.0,8.665,10138
+Nia DaCosta,1795072.0,1.0,0.6,565028
+Tim Hill,49903.0,2.0,2.717,400160
+Brad Peyton,132876.0,2.0,1.425,72545
+Brian Taylor,20192.0,2.0,1.333,15092
+Mark Neveldine,20193.0,2.0,1.543,15092
