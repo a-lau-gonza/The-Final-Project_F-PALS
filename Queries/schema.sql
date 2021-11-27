@@ -2,6 +2,7 @@
 CREATE TABLE movie_data (
     movie_id INT NOT NULL,
     title VARCHAR(100) NOT NULL,
+	genre_ids VARCHAR(50),
 	release_date DATE,
 	movie_popularity FLOAT8,
 	vote_average FLOAT8,
@@ -16,7 +17,7 @@ CREATE TABLE actor (
     name VARCHAR(40) NOT NULL,
     actor_id FLOAT8,
 	gender FLOAT8,
-	character VARCHAR(60),
+	character VARCHAR(80),
 	actor_popularity FLOAT8,
 	movie_id INT NOT NULL,
     FOREIGN KEY (movie_id) REFERENCES Movie_Data (movie_id)
