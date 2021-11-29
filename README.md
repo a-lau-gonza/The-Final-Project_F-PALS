@@ -37,6 +37,25 @@ Our hypotheses on the other influential variables such as with studios and actor
 Another noted point of interest was movie franchises, some of the still popular movies to this day are connected to other movies by either being a part of the sequels or being in the franchise. There is no category for this within the API pull, however some examples of profitable franchises are Star Wars and Harry Potter, with each film more than making a profit even included the rule of thumb marketing costs.
 
 ### Machine Learning Specifics
+##### Preprocessing
+1. To preprocess the data, first we grouped the actors each by their respective movies using movie_id, then averaged the popularity score of those actors in each movie to get one composite popularity score. We then repeated this process for the directors.
+2. Then we looked at the studios column. After seeing how many studios only had one or two movies, we decided to bin all of those studios with less than 3 movies in our list to a bin we named “Other.” This left us with the top 10 studios and the “Other” bin.
+3. The studios were then categorized using movie_id to create lists of of each individual studio that produced it 
+4. The datetime variables were converted to the %Y-%m-%d format and then we used that to to encode using month number as a variable. Ie. January = 1, December = 12
+5. The genres were broken down like the movie studios, so that each row contains a list of genres that were associated with each movie also using movie_id.
+6. After creating the lists of studios and genres we then encoded them using OneHotEncoder.
+7. We also encoded the ratings using a similar method to months. 
+ratings_enc = {
+    'G': 1,
+    'PG': 2,
+    'PG-13': 3,
+    'R': 4,
+    'NC-17': 5,
+    'NR':6
+}
+8. After encoding we noticed that budget, revenue, votes, and popularity scores had a wide range of numbers so we standardized those.
+
+
 
 ## Communication Protocols
 * Meeting Times: 
@@ -71,24 +90,6 @@ At first we used Zoom for our meetings due to familiarity of the app through cla
   * for movies, a typical rule of thumb on if it made its money back is 2x the original budget. the extra half is used for marketing.
   * if revenue > (2 * budget) then it made a profit
 * Machine learning skeletons are placed in Tables folder
-
-### Preprocessing
-1. To preprocess the data, first we grouped the actors each by their respective movies using movie_id, then averaged the popularity score of those actors in each movie to get one composite popularity score. We then repeated this process for the directors.
-2. Then we looked at the studios column. After seeing how many studios only had one or two movies, we decided to bin all of those studios with less than 3 movies in our list to a bin we named “Other.” This left us with the top 10 studios and the “Other” bin.
-3. The studios were then categorized using movie_id to create lists of of each individual studio that produced it 
-4. The datetime variables were converted to the %Y-%m-%d format and then we used that to to encode using month number as a variable. Ie. January = 1, December = 12
-5. The genres were broken down like the movie studios, so that each row contains a list of genres that were associated with each movie also using movie_id.
-6. After creating the lists of studios and genres we then encoded them using OneHotEncoder.
-7. We also encoded the ratings using a similar method to months. 
-ratings_enc = {
-    'G': 1,
-    'PG': 2,
-    'PG-13': 3,
-    'R': 4,
-    'NC-17': 5,
-    'NR':6
-}
-8. After encoding we noticed that budget, revenue, votes, and popularity scores had a wide range of numbers so we standardized those.
 
 
 ### Segment 2
