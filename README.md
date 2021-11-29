@@ -36,7 +36,7 @@ Our hypotheses on the other influential variables such as with studios and actor
 
 Another noted point of interest was movie franchises, some of the still popular movies to this day are connected to other movies by either being a part of the sequels or being in the franchise. There is no category for this within the API pull, however some examples of profitable franchises are Star Wars and Harry Potter, with each film more than making a profit even included the rule of thumb marketing costs.
 
-### Machine Learning: Preprocessing, feature
+### Machine Learning Specifics
 
 ## Communication Protocols
 * Meeting Times: 
