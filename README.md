@@ -1,5 +1,6 @@
-# F-PALS: The Final Project 
+# F-PALS: [The Final Project](https://docs.google.com/presentation/d/1K_GDT5Z9gXgQocvto1T3PfcPokiHEzsp4WKGlrQmI7w/edit?usp=sharing)
 Our final project will be based on a machine learning algorithm for __*MOVIES*__ and if we can predict the earnings for movies past and future!
+Our presentation on Google Slides can be found with either the above link or __[here](https://docs.google.com/presentation/d/1K_GDT5Z9gXgQocvto1T3PfcPokiHEzsp4WKGlrQmI7w/edit?usp=sharing).__
 
 ## __Profitibility of Movies Through Machine Learning__
 ### Why did we pick movies? And what are we hoping to answer?
@@ -13,28 +14,35 @@ With our sample data that we pulled for our database and machine learning skelet
 
 For the specific variables we were scraping for, we picked as many variables that would be discernable as having an impact on the average audience member in their interest in watching it. This included the actors/actresses, directors, genders of both previous categories, budget, production studio, age rating (in the US), and country of origin. The final variable we needed was revenue/box office numbers to train and compare our machine learning findings to actual results as well as for seeing how well our model works on upcoming films. 
 
+### Data Exploration: What did we initially uncover?
+We had a few hypotheses on what can influence a movie in its performance for profitability. Initial thoughts were related to *names*, whether those belonged to actual people, groups/companies, or properties, clout with a name can influence if people are willing to watch.
+The big people categories we focused on were actors and directors. Big names bring in big crowds of those familiar with their previous works. For example Steven Spielberg, Christopher Nolan, Egdar Wright are all recognizable auteurs in directing who have enough influence and star power that they can make their own original films without dipping into franchises for success.
+The same goes for actors, but this is one that weighs more to the average audience member due to them being the faces of the movies they watch. They too can also go for more unique premises for movies and still bring in dedicated audiences. The advantage on weight also goes to actors because movies can have multiple heavy star powered actors in lead or supporting roles, a la the Marvel movies where almost every major charactor either was already or is now an A list actor. The more names a movie can bring in, the higher the probability for profitability.
+Last of the big named variables is the studio. Studios are also now synonymous with the movies that they produce, such as Disney, Marvel, Pixar. Having a large and consistently chart topping studio as the creative team brings about a seal of quality for many average movie goers. 
+The connecting tissue for all the above is __familiarity__. The average movie goer isn't a cinephile with terabytes of information at the ready in their head for movie trivia, but they are susceptible to recognizable names from actors to studios that have made something they watched before.
+With the last largely affecting variable being the budget of the film. The more a movie spends, typically the bigger the hit. However, it also works that there are many popular movies in the past that were small budget, *OR* that there were huge flops because general audiences didn't like the film despite the large budget.
+
+### Analysis: What could we conclude?
+After some analysis on the pulled data many of our original hypotheses turned out to be true. 
+On the website where we pulled our data, [The Movie Database](https://www.themoviedb.org/), they also had a *'popularity'* feature for actors, movies, and directors.
+
 ## Communication Protocols
-* Meeting Times: 6:30PM - 8:30PM
-  * Using Slack to figure out what specific days to meet up for working together
-  * 11/15: 6:30PM meetup on Zoom
-  * During class times
-  * 11/18: 6:30PM
-  * 11/19: 6:30PM
-  * 11/20 - 11/21: 6:30PM
-  * 11/23: 6:30PM
+* Meeting Times: 
+  * Daily at 6:30PM - 8:30PM if there is no class time
+  * Use Slack to update others on what we are working on individually
+  * Use Discord to meet for meetings
 
 At first we used Zoom for our meetings due to familiarity of the app through class. However, we soon found out that Zoom had a short time limit of about an hour for video conferences, to we decided to use another free app, [Discord](discord.com) in place of it. Through our Discord server created specifically for the project, any of us can join into a voice chat room at any point in time without having to start a specific conference as well as share all our screens at once if necessary. Our meetings typically lasted for 2 hours and any other questions or concerns done outside of them were done through Slack.
 
-## Segment 1: Roles
-* __*SQUARE*__: Andrew
-* __*TRIANGLE*__: Freddie
-* __*CIRCLE*__: Sean, Lanisha
-* __*X*__: Peter
+## Segment Roles:
+* __*Andrew*__: Square --> Square
+* __*Freddie*__: Triangle --> Square
+* __*Sean*__: Circle --> Triangle
+* __*Peter*__: X --> X 
+* __*Lanisha*__: Circle --> 
 
-## Presentation 
-Our presentation on Google Slides can be found [here](https://docs.google.com/presentation/d/1K_GDT5Z9gXgQocvto1T3PfcPokiHEzsp4WKGlrQmI7w/edit?usp=sharing).
-
-## Segment 1: Notes
+## Segment Notes
+### Segment 1
 * Pre-viz variables: actor/popularity_score, actor_id, director, director_id, studio, studio_id, producer, producer_id, budget, genre_id, genre, release date (encoded), release month (encoded), popularity, vote_avg, language, title, title_id, imdb_id, revenue
 * Official variables: 
   * famous_actors: character, actor_gender, actor_id, actor_name (name), actor_popularity, movie_id
@@ -51,4 +59,11 @@ Our presentation on Google Slides can be found [here](https://docs.google.com/pr
   * for movies, a typical rule of thumb on if it made its money back is 2x the original budget. the extra half is used for marketing.
   * if revenue > (2 * budget) then it made a profit
 * Machine learning skeletons are placed in Tables folder
+
+### Segment 2
+* Finalize the database
+  * Went with Heroku to avoid charges
+  * Finalized all the joins and columns to be ready for ML integration
+* Continue working on fine tuning the ML algorithms 
+* Create a Google slide for presentation
 
