@@ -54,8 +54,14 @@ ratings_enc = {
     'NR':6
 }
 8. After encoding we noticed that budget, revenue, votes, and popularity scores had a wide range of numbers so we standardized those.
+9. We then split the data using the default setting from sklearn's testtrainsplit module which is 75/25
 
 
+For the model choice we decided to do a Logistic regression using a boolean to determine whether a movie was a success or not. The model does provide us a prediction of whether a movie will be successful however it does not give the estimated revenue that it is predicting only a yes or no. A benefit is that our model can be used as a quick identifier of whether a movie is a success or not
+
+![image](https://user-images.githubusercontent.com/83510059/143798774-e2c6ed98-dc6f-4a02-aed2-ab8f0750544b.png)
+
+![image](https://user-images.githubusercontent.com/83510059/143798790-78d1fe21-6c8a-4e8a-99a4-0e86ff839544.png)
 
 ## Communication Protocols
 * Meeting Times: 
