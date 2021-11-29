@@ -1,3 +1,4 @@
+
 ,movie_id,title,release_date,movie_popularity,vote_average,vote_count,budget,revenue,ratings,studios,genres,actor_popularity_mean,director_popularity_mean
 0,671,Harry Potter and the Philosopher's Stone,2001-11-16,268.472,7.9,21429,125000000,976475550,PG,"[""'Warner Bros. Pictures'"", "" ' Heyday Films'"", "" ' Other'""]","[""'Adventure'"", "" 'Fantasy'""]",2.9939649122807013,2.566
 1,557,Spider-Man,2002-05-01,480.954,7.2,14421,139000000,821708551,PG-13,"[""'Other'"", "" ' Columbia Pictures'"", "" ' Sony Pictures'"", "" ' Other'"", "" ' Marvel Entertainment'""]","[""'Fantasy'"", "" 'Action'""]",2.3870219780219766,2.914
@@ -73,3 +74,4 @@
 71,524434,Eternals,2021-11-03,1746.171,7.1,1170,200000000,336000000,PG-13,"[""'Marvel Studios'""]","[""'Action'"", "" 'Adventure'"", "" 'Science Fiction'""]",5.096702702702702,2.397
 72,425909,Ghostbusters: Afterlife,2021-11-11,544.722,7.5,113,75000000,63000000,PG-13,"[""'Columbia Pictures'"", "" ' Other'"", "" ' Other'"", "" ' Other'""]","[""'Comedy'"", "" 'Fantasy'""]",4.924763157894735,4.999
 73,644495,House of Gucci,2021-11-24,223.289,7.6,11,75000000,1000000,R,"[""'Other'"", "" ' Metro-Goldwyn-Mayer'"", "" ' Other'""]","[""'Drama'"", "" 'Crime'"", "" 'Thriller'""]",2.6161666666666648,13.326
+
