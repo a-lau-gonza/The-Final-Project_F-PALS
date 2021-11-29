@@ -29,8 +29,8 @@ With the last largely affecting variable being the budget of the film. The more 
 
 ### Analysis: What could we conclude?
 After some analysis on the pulled data many of our original hypotheses turned out to be true. 
-On the website where we pulled our data, [The Movie Database](https://www.themoviedb.org/), they also had a *'popularity'* feature for actors, movies, and directors.
-The website had a variable that took into account how often someone or something was looked at in order to create a 'popularity' figure to gauge the general audience interest in these specific persons of interest. It was a good measure on who or what was still relevant in the cultural zeitgeist, for example someone like James Dean, who has been gone for over 50 years, would have less popular relevance than Scarlett Johansson.
+
+On the website where we pulled our data, [The Movie Database](https://www.themoviedb.org/), they also had a *'popularity'* feature for actors, movies, and directors that took into account how often someone or something was looked at in order to create a 'popularity' figure to gauge the general audience interest in these specific persons of interest. It was a good measure on who or what was still relevant in the cultural zeitgeist, for example someone like James Dean, who has been gone for over 50 years, would have less popular relevance than Scarlett Johansson.
 
 Our hypotheses on the other influential variables such as with studios and actors did return that those are large contributing factors to a movie's success, as noted by many of the top selling films of all time having Marvel or Disney as a noted studio. 
 
