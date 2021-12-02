@@ -105,3 +105,6 @@ At first we used Zoom for our meetings due to familiarity of the app through cla
 * Continue working on fine tuning the ML algorithms 
 * Create a Google slide for presentation
 
+### Segment 3
+* Organize and sort the studios and genres alphabetically
+  * This way the ML reads the combination of the genres and studios as a value when encoding, also to eliminate any repeats of the same studios/genres, but in a different order which would count as another category in the encoding
