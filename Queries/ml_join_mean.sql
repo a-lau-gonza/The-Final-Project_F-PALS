@@ -10,3 +10,5 @@ LEFT JOIN director ON movie_data.movie_id = director.movie_id
 ORDER BY movie_data.release_date ASC;
 
 DROP TABLE meta;
+
+select * from meta;
