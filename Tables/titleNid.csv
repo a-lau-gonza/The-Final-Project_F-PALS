@@ -1,75 +1,1906 @@
 movie_id,title
-566525,Shang-Chi and the Legend of the Ten Rings
 580489,Venom: Let There Be Carnage
+566525,Shang-Chi and the Legend of the Ten Rings
 370172,No Time to Die
 524434,Eternals
-744275,After We Fell
-438631,Dune
 550988,Free Guy
+438631,Dune
 1930,The Amazing Spider-Man
-335983,Venom
-568620,Snake Eyes: G.I. Joe Origins
-102382,The Amazing Spider-Man 2
-635302,Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train
-459151,The Boss Baby: Family Business
-574060,Gunpowder Milkshake
-576845,Last Night in Soho
+744275,After We Fell
+315635,Spider-Man: Homecoming
 429617,Spider-Man: Far From Home
+576845,Last Night in Soho
+557,Spider-Man
+635302,Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train
 508943,Luca
+559,Spider-Man 3
+459151,The Boss Baby: Family Business
+568620,Snake Eyes: G.I. Joe Origins
+637649,Wrath of Man
+102382,The Amazing Spider-Man 2
 451048,Jungle Cruise
 385128,F9
-610253,Halloween Kills
 436969,The Suicide Squad
+574060,Gunpowder Milkshake
 497698,Black Widow
-315635,Spider-Man: Homecoming
-559,Spider-Man 3
+460458,Resident Evil: Welcome to Raccoon City
+610253,Halloween Kills
 379686,Space Jam: A New Legacy
-425909,Ghostbusters: Afterlife
-337404,Cruella
-557,Spider-Man
+335983,Venom
 460465,Mortal Kombat
-529203,The Croods: A New Age
-637649,Wrath of Man
+337404,Cruella
 299536,Avengers: Infinity War
+425909,Ghostbusters: Afterlife
 399566,Godzilla vs. Kong
+324857,Spider-Man: Into the Spider-Verse
+529203,The Croods: A New Age
 791373,Zack Snyder's Justice League
+19995,Avatar
+299534,Avengers: Endgame
 631843,Old
 525660,Dynasty Warriors
-19995,Avatar
 527774,Raya and the Last Dragon
-324857,Spider-Man: Into the Spider-Verse
-464052,Wonder Woman 1984
-13811,Knowing
-482373,Don't Breathe 2
-671,Harry Potter and the Philosopher's Stone
+644495,House of Gucci
+617653,The Last Duel
 423108,The Conjuring: The Devil Made Me Do It
-354912,Coco
-602223,The Forever Purge
-317442,The Last: Naruto the Movie
-632357,The Unholy
-672,Harry Potter and the Chamber of Secrets
-299534,Avengers: Endgame
-674,Harry Potter and the Goblet of Fire
-458576,Monster Hunter
-520763,A Quiet Place Part II
 24428,The Avengers
+671,Harry Potter and the Philosopher's Stone
+317442,The Last: Naruto the Movie
+13811,Knowing
+464052,Wonder Woman 1984
+458576,Monster Hunter
+602223,The Forever Purge
+672,Harry Potter and the Chamber of Secrets
+587807,Tom & Jerry
+632357,The Unholy
+482373,Don't Breathe 2
+505262,My Hero Academia: Two Heroes
+674,Harry Potter and the Goblet of Fire
 12444,Harry Potter and the Deathly Hallows: Part 1
 634528,The Marksman
-587807,Tom & Jerry
-12445,Harry Potter and the Deathly Hallows: Part 2
 673,Harry Potter and the Prisoner of Azkaban
-644495,House of Gucci
-767,Harry Potter and the Half-Blood Prince
-619778,Malignant
-8960,Hancock
-505262,My Hero Academia: Two Heroes
-508442,Soul
-637693,Spirit Untamed
-522478,Peter Rabbit 2: The Runaway
-324786,Hacksaw Ridge
-675,Harry Potter and the Order of the Phoenix
-303857,Dragon Ball Z: Resurrection 'F'
-565028,Candyman
+12445,Harry Potter and the Deathly Hallows: Part 2
 400160,The SpongeBob Movie: Sponge on the Run
-72545,Journey 2: The Mysterious Island
+508442,Soul
+767,Harry Potter and the Half-Blood Prince
+8960,Hancock
+520763,A Quiet Place Part II
+675,Harry Potter and the Order of the Phoenix
+354912,Coco
+10138,Iron Man 2
+8871,How the Grinch Stole Christmas
+303857,Dragon Ball Z: Resurrection 'F'
+637693,Spirit Untamed
+615457,Nobody
+198663,The Maze Runner
+619778,Malignant
+24021,The Twilight Saga: Eclipse
+360920,The Grinch
+106646,The Wolf of Wall Street
+99861,Avengers: Age of Ultron
+324786,Hacksaw Ridge
+293660,Deadpool
+522478,Peter Rabbit 2: The Runaway
+558,Spider-Man 2
 15092,Crank: High Voltage
+22832,Ninja Assassin
+10195,Thor
+22894,Legion
+330457,Frozen II
+590706,Jiu Jitsu
+271110,Captain America: Civil War
+335797,Sing
+337401,Mulan
+284052,Doctor Strange
+32657,Percy Jackson & the Olympians: The Lightning Thief
+862,Toy Story
+384018,Fast & Furious Presents: Hobbs & Shaw
+18785,The Hangover
+284053,Thor: Ragnarok
+1865,Pirates of the Caribbean: On Stranger Tides
+808,Shrek
+772,Home Alone 2: Lost in New York
+13475,Star Trek
+98566,Teenage Mutant Ninja Turtles
+800497,Werewolves Within
+156022,The Equalizer
+214756,Ted 2
+333339,Ready Player One
+39254,Real Steel
+43074,Ghostbusters
+4564,Sex and the City
+585,"Monsters, Inc."
+393345,Cult of Chucky
+14161,2012
+216015,Fifty Shades of Grey
+11932,Bride of Chucky
+193893,Let's Be Cops
+863,Toy Story 2
+475557,Joker
+22803,Law Abiding Citizen
+240832,Lucy
+177572,Big Hero 6
+8587,The Lion King
+383498,Deadpool 2
+68721,Iron Man 3
+122917,The Hobbit: The Battle of the Five Armies
+16996,17 Again
+458156,John Wick: Chapter 3 - Parabellum
+337167,Fifty Shades Freed
+72545,Journey 2: The Mysterious Island
+43347,Love & Other Drugs
+72190,World War Z
+454626,Sonic the Hedgehog
+9820,The Parent Trap
+10196,The Last Airbender
+301528,Toy Story 4
+585216,Escape Room: Tournament of Champions
+228150,Fury
+68726,Pacific Rim
+72331,Abraham Lincoln: Vampire Hunter
+109445,Frozen
+809,Shrek 2
+10585,Child's Play
+257344,Pixels
+24418,Cirque du Freak: The Vampire's Assistant
+38575,The Karate Kid
+138843,The Conjuring
+474350,It Chapter Two
+254128,San Andreas
+425,Ice Age
+76338,Thor: The Dark World
+14869,G.I. Joe: The Rise of Cobra
+1726,Iron Man
+398818,Call Me by Your Name
+34851,Predators
+284054,Black Panther
+11249,Seed of Chucky
+27205,Inception
+119450,Dawn of the Planet of the Apes
+27578,The Expendables
+7445,Brothers
+26123,American Pie Presents: The Book of Love
+35,The Simpsons Movie
+44571,The King of Fighters
+75780,Jack Reacher
+10358,Zack and Miri Make a Porno
+400155,Hotel Transylvania 3: Summer Vacation
+50546,Just Go with It
+420818,The Lion King
+299537,Captain Marvel
+23168,The Town
+534,Terminator Salvation
+49529,John Carter
+38365,Grown Ups
+324552,John Wick: Chapter 2
+565028,Candyman
+14836,Coraline
+44943,Battle: Los Angeles
+337339,The Fate of the Furious
+260346,Taken 3
+577922,Tenet
+91314,Transformers: Age of Extinction
+578701,Those Who Wish Me Dead
+296096,Me Before You
+70981,Prometheus
+259693,The Conjuring 2
+16869,Inglourious Basterds
+5255,The Polar Express
+495764,Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn)
+643586,Willy's Wonderland
+581392,Peninsula
+49530,In Time
+72105,Ted
+2978,Ghostbusters II
+9806,The Incredibles
+50620,The Twilight Saga: Breaking Dawn - Part 2
+341174,Fifty Shades Darker
+120,The Lord of the Rings: The Fellowship of the Ring
+260513,Incredibles 2
+49051,The Hobbit: An Unexpected Journey
+18240,The Proposal
+49519,The Croods
+1771,Captain America: The First Avenger
+10674,Mulan
+18823,Clash of the Titans
+294254,Maze Runner: The Scorch Trials
+9637,Scooby-Doo
+51876,Limitless
+10193,Toy Story 3
+59440,Warrior
+11322,Public Enemies
+17654,District 9
+404368,Ralph Breaks the Internet
+285,Pirates of the Caribbean: At World's End
+283995,Guardians of the Galaxy Vol. 2
+13448,Angels & Demons
+20533,Jonah Hex
+58,Pirates of the Caribbean: Dead Man's Chest
+198184,Chappie
+620,Ghostbusters
+82690,Wreck-It Ralph
+48138,Unknown
+12429,Ponyo
+45243,The Hangover Part II
+131631,The Hunger Games: Mockingjay - Part 1
+22,Pirates of the Caribbean: The Curse of the Black Pearl
+420809,Maleficent: Mistress of Evil
+512200,Jumanji: The Next Level
+602269,The Little Things
+343611,Jack Reacher: Never Go Back
+157336,Interstellar
+10144,The Little Mermaid
+109418,Grown Ups 2
+396535,Train to Busan
+55846,Blitz
+121,The Lord of the Rings: The Two Towers
+42194,TEKKEN
+533642,Child's Play
+8355,Ice Age: Dawn of the Dinosaurs
+260514,Cars 3
+9479,The Nightmare Before Christmas
+27576,Salt
+8966,Twilight
+9487,A Bug's Life
+597,Titanic
+11699,Bad Lieutenant: Port of Call - New Orleans
+209112,Batman v Superman: Dawn of Justice
+12,Finding Nemo
+9023,Spirit: Stallion of the Cimarron
+11224,Cinderella
+411,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe"
+109439,The Hangover Part III
+10895,Pinocchio
+135397,Jurassic World
+644083,Twist
+28510,Universal Soldier: Regeneration
+87101,Terminator Genisys
+336843,Maze Runner: The Death Cure
+76492,Hotel Transylvania
+74513,Special Forces
+9543,Prince of Persia: The Sands of Time
+50619,The Twilight Saga: Breaking Dawn - Part 1
+57165,Wrath of the Titans
+20526,TRON: Legacy
+307081,Southpaw
+531499,The Tax Collector
+49026,The Dark Knight Rises
+44912,Green Lantern
+17979,A Christmas Carol
+603,The Matrix
+439079,The Nun
+37724,Skyfall
+136797,Need for Speed
+38757,Tangled
+71676,Ghost Rider: Spirit of Vengeance
+57158,The Hobbit: The Desolation of Smaug
+291870,Dirty Grandpa
+45610,Machine Gun Preacher
+268896,Pacific Rim: Uprising
+168259,Furious 7
+8920,Garfield
+11186,Child's Play 2
+38700,Bad Boys for Life
+270946,Penguins of Madagascar
+305470,Power Rangers
+126889,Alien: Covenant
+287947,Shazam!
+10567,Dinosaur
+41630,No Strings Attached
+49013,Cars 2
+76757,Jupiter Ascending
+335988,Transformers: The Last Knight
+166426,Pirates of the Caribbean: Dead Men Tell No Tales
+37430,Conan the Barbarian
+23629,Sucker Punch
+122,The Lord of the Rings: The Return of the King
+408,Snow White and the Seven Dwarfs
+167032,Curse of Chucky
+52520,Underworld: Awakening
+23047,Season of the Witch
+46528,The Warrior's Way
+810,Shrek the Third
+41154,Men in Black 3
+340102,The New Mutants
+11688,The Emperor's New Groove
+117251,White House Down
+14160,Up
+333484,The Magnificent Seven
+11187,Child's Play 3
+75174,The Grey
+9502,Kung Fu Panda
+297762,Wonder Woman
+150540,Inside Out
+950,Ice Age: The Meltdown
+259316,Fantastic Beasts and Where to Find Them
+10201,Yes Man
+190859,American Sniper
+10020,Beauty and the Beast
+16995,State of Play
+269149,Zootopia
+34544,The A-Team
+102899,Ant-Man
+75656,Now You See Me
+503314,Dragon Ball Super: Broly
+39513,Paul
+10192,Shrek Forever After
+363088,Ant-Man and the Wasp
+420817,Aladdin
+4247,Scary Movie
+424694,Bohemian Rhapsody
+76341,Mad Max: Fury Road
+273481,Sicario
+62211,Monsters University
+6499,Turbo: A Power Rangers Movie
+8363,Superbad
+42684,Skyline
+17134,12 Rounds
+19908,Zombieland
+62177,Brave
+412117,The Secret Life of Pets 2
+81188,Rise of the Guardians
+105864,The Good Dinosaur
+102651,Maleficent
+249070,Hitman: Agent 47
+4258,Scary Movie 5
+82675,Taken 2
+749274,Cry Macho
+206647,Spectre
+139038,A Haunted House
+48340,Sanctum
+245891,John Wick
+225886,Sex Tape
+559907,The Green Knight
+953,Madagascar
+34813,The Losers
+3170,Bambi
+18239,The Twilight Saga: New Moon
+424783,Bumblebee
+522931,Hitman's Wife's Bodyguard
+37135,Tarzan
+46195,Rio
+496243,Parasite
+159824,Hotel Transylvania 2
+60304,Hansel & Gretel: Witch Hunters
+522627,The Gentlemen
+76726,Chronicle
+51608,The Man from Nowhere
+136418,Hummingbird
+262500,Insurgent
+228326,The Book of Life
+11836,The SpongeBob SquarePants Movie
+20048,Confessions of a Shopaholic
+93456,Despicable Me 2
+181812,Star Wars: The Rise of Skywalker
+138103,The Expendables 3
+345940,The Meg
+246655,X-Men: Apocalypse
+11970,Hercules
+58857,13 Assassins
+134374,Pain & Gain
+232672,Blended
+345938,The Shack
+521029,Annabelle Comes Home
+364689,Ferdinand
+14405,Beverly Hills Chihuahua
+38055,Megamind
+615,The Passion of the Christ
+140607,Star Wars: The Force Awakens
+9325,The Jungle Book
+281338,War for the Planet of the Apes
+316727,The Purge: Election Year
+223702,Sausage Party
+47964,A Good Day to Die Hard
+37834,Knight and Day
+169917,A Walk Among the Tombstones
+286217,The Martian
+181808,Star Wars: The Last Jedi
+10009,Brother Bear
+10191,How to Train Your Dragon
+373571,Godzilla: King of the Monsters
+150689,Cinderella
+346910,The Predator
+11674,101 Dalmatians
+131634,The Hunger Games: Mockingjay - Part 2
+11544,Lilo & Stitch
+10588,The Cat in the Hat
+12244,9
+19840,"I Love You, Beth Cooper"
+447332,A Quiet Place
+81796,Lockout
+19994,Jennifer's Body
+57800,Ice Age: Continental Drift
+82702,How to Train Your Dragon 2
+351819,Fifty Shades of Black
+137113,Edge of Tomorrow
+400928,Gifted
+10681,WALL·E
+124905,Godzilla
+339846,Baywatch
+12230,One Hundred and One Dalmatians
+27581,The Other Guys
+339984,Miracles from Heaven
+812,Aladdin
+11360,Dumbo
+129,Spirited Away
+20662,Robin Hood
+335984,Blade Runner 2049
+522938,Rambo: Last Blood
+49849,Cowboys & Aliens
+324852,Despicable Me 3
+9769,Lolita
+14306,Marley & Me
+287590,Saint Seiya: Legend of Sanctuary
+273477,Scouts Guide to the Zombie Apocalypse
+141052,Justice League
+10202,Bedtime Stories
+64635,Total Recall
+353486,Jumanji: Welcome to the Jungle
+278154,Ice Age: Collision Course
+155,The Dark Knight
+187017,22 Jump Street
+10607,Don't Be a Menace to South Central While Drinking Your Juice in the Hood
+409502,I'm Not Ashamed
+290859,Terminator: Dark Fate
+123553,The Mortal Instruments: City of Bones
+454640,The Angry Birds Movie 2
+19899,Couples Retreat
+454527,Benedetta
+37786,Sex and the City 2
+10527,Madagascar: Escape 2 Africa
+297761,Suicide Squad
+44896,Rango
+49444,Kung Fu Panda 2
+157350,Divergent
+9552,The Exorcist
+616651,Stillwater
+136799,Trolls
+9714,Home Alone 3
+13971,Wild Child
+313297,Kubo and the Two Strings
+20352,Despicable Me
+36557,Casino Royale
+80321,Madagascar 3: Europe's Most Wanted
+2105,American Pie
+293167,Kong: Skull Island
+338967,Zombieland: Double Tap
+238,The Godfather
+14560,Paul Blart: Mall Cop
+399579,Alita: Battle Angel
+10521,Bride Wars
+480530,Creed II
+511987,Crawl
+14248,Igor
+272,Batman Begins
+479455,Men in Black: International
+21208,Orphan
+64690,Drive
+283366,Miss Peregrine's Home for Peculiar Children
+147441,Exodus: Gods and Kings
+339403,Baby Driver
+381288,Split
+10729,Quick Change
+11,Star Wars
+62835,Colombiana
+100402,Captain America: The Winter Soldier
+4248,Scary Movie 2
+68737,Seventh Son
+522162,Midway
+118340,Guardians of the Galaxy
+311324,The Great Wall
+346364,It
+300671,13 Hours: The Secret Soldiers of Benghazi
+346672,Underworld: Blood Wars
+158015,The Purge
+68718,Django Unchained
+291805,Now You See Me 2
+10198,The Princess and the Frog
+10184,He's Just Not That Into You
+184315,Hercules
+920,Cars
+172385,Rio 2
+338952,Fantastic Beasts: The Crimes of Grindelwald
+481084,The Addams Family
+481848,The Call of the Wild
+87428,That's My Boy
+13053,Bolt
+166428,How to Train Your Dragon: The Hidden World
+49018,Insidious
+23483,Kick-Ass
+222935,The Fault in Our Stars
+17610,Year One
+56292,Mission: Impossible - Ghost Protocol
+604,The Matrix Reloaded
+312221,Creed
+9836,Happy Feet
+1724,The Incredible Hulk
+58595,Snow White and the Huntsman
+1579,Apocalypto
+210577,Gone Girl
+23631,Machete
+281957,The Revenant
+127585,X-Men: Days of Future Past
+117263,Olympus Has Fallen
+184345,A Haunted House 2
+321612,Beauty and the Beast
+278,The Shawshank Redemption
+331482,Little Women
+12092,Alice in Wonderland
+166424,Fantastic Four
+72431,Red Tails
+480414,The Curse of La Llorona
+561,Constantine
+302699,Central Intelligence
+57201,The Lone Ranger
+82700,After Earth
+15373,Role Models
+76163,The Expendables 2
+579047,Reminiscence
+74998,Seeking Justice
+263472,Knock Knock
+2454,The Chronicles of Narnia: Prince Caspian
+11397,Not Another Teen Movie
+396422,Annabelle: Creation
+14164,Dragonball Evolution
+119283,Parker
+49021,Killer Elite
+499701,Dora and the Lost City of Gold
+10054,Spy Kids
+71552,American Reunion
+58574,Sherlock Holmes: A Game of Shadows
+169209,Empire State
+76489,The Three Stooges
+43959,Soul Surfer
+23023,Tooth Fairy
+2770,American Pie 2
+400535,Sicario: Day of the Soldado
+37710,The Tourist
+508439,Onward
+60747,Red Dawn
+381289,A Dog's Purpose
+9444,Anastasia
+238636,The Purge: Anarchy
+8277,American Pie Presents: Beta House
+16290,Jackass 3D
+10625,Mean Girls
+61791,Rise of the Planet of the Apes
+20453,3 Idiots
+1267,Meet the Robinsons
+22881,The Blind Side
+47971,xXx: Return of Xander Cage
+605,The Matrix Revolutions
+53182,300: Rise of an Empire
+359724,Ford v Ferrari
+70160,The Hunger Games
+447200,Skyscraper
+9902,Wrong Turn
+345887,The Equalizer 2
+38322,"Big Mommas: Like Father, Like Son"
+7555,Rambo
+524047,Greenland
+7446,Tropic Thunder
+10340,Lady and the Tramp
+64688,21 Jump Street
+62206,30 Minutes or Less
+10386,The Iron Giant
+290764,Tracers
+80035,The Watch
+4523,Enchanted
+287948,The Transporter Refueled
+250546,Annabelle
+6479,I Am Legend
+116711,Epic
+77866,Contraband
+14442,Ella Enchanted
+16523,Where the Wild Things Are
+12279,Spy Kids 3-D: Game Over
+242582,Nightcrawler
+87818,Movie 43
+19913,(500) Days of Summer
+680,Pulp Fiction
+274854,The Last Witch Hunter
+19912,The Final Destination
+10764,Quantum of Solace
+535845,Brian Banks
+1637,Speed
+136795,The Heat
+300669,Don't Breathe
+11324,Shutter Island
+4935,Howl's Moving Castle
+514847,The Hunt
+10693,Peter Pan
+34584,The NeverEnding Story
+540901,Hustlers
+227719,Project Almanac
+9297,Monster House
+10137,Stuart Little
+22794,Cloudy with a Chance of Meatballs
+542178,The French Dispatch
+6477,Alvin and the Chipmunks
+8275,American Pie Presents: The Naked Mile
+694,The Shining
+68724,Elysium
+652004,The Wolf of Snow Hollow
+10112,The Aristocats
+402900,Ocean's Eight
+47933,Independence Day: Resurgence
+252,Willy Wonka & the Chocolate Factory
+381890,The Mermaid
+10882,Sleeping Beauty
+49520,The Change-Up
+176,Saw
+201088,Blackhat
+23172,The Spy Next Door
+308531,Teenage Mutant Ninja Turtles: Out of the Shadows
+68735,Warcraft
+1250,Ghost Rider
+350,The Devil Wears Prada
+9286,Final Destination 3
+262504,Allegiant
+6466,Freddy vs. Jason
+11395,The Santa Clause
+23398,Alvin and the Chipmunks: The Squeakquel
+258489,The Legend of Tarzan
+49524,R.I.P.D.
+20829,Funny People
+105,Back to the Future
+146216,RED 2
+9279,Jingle All the Way
+440,Aliens vs Predator: Requiem
+101299,The Hunger Games: Catching Fire
+18360,Night at the Museum: Battle of the Smithsonian
+353081,Mission: Impossible - Fallout
+267935,The BFG
+10555,Shark Tale
+449443,Den of Thieves
+38408,Life As We Know It
+315837,Ghost in the Shell
+9488,Spy Kids 2: The Island of Lost Dreams
+98567,Chinese Zodiac
+138832,We're the Millers
+522681,Escape Room
+8681,Taken
+241848,The Guest
+110415,Snowpiercer
+348,Alien
+256040,Bāhubali: The Beginning
+41733,Due Date
+45612,Source Code
+87421,Riddick
+15070,Undisputed
+339964,Valerian and the City of a Thousand Planets
+466272,Once Upon a Time… in Hollywood
+637,Life Is Beautiful
+13700,Home on the Range
+854,The Mask
+9323,Ghost in the Shell
+13596,My Best Friend's Girl
+55779,Final Destination 5
+6844,The Ten Commandments
+27582,The Mechanic
+136400,2 Guns
+320288,Dark Phoenix
+1691,Hostel: Part II
+82633,Lawless
+406563,Insidious: The Last Key
+431693,Spies in Disguise
+14199,The Adventures of Sharkboy and Lavagirl
+423204,Angel Has Fallen
+8961,Bad Boys II
+448119,Dolittle
+431580,Abominable
+280092,Insidious: Chapter 3
+497,The Green Mile
+378236,The Emoji Movie
+14438,Fireproof
+8373,Transformers: Revenge of the Fallen
+59108,Tower Heist
+244786,Whiplash
+49040,The Bourne Legacy
+228161,Home
+8922,Jeepers Creepers
+338762,Bloodshot
+23827,Paranormal Activity
+55301,Alvin and the Chipmunks: Chipwrecked
+228165,The SpongeBob Movie: Sponge Out of Water
+100042,Dumb and Dumber To
+8839,Casper
+530915,1917
+241259,Alice Through the Looking Glass
+567690,Dear Evan Hansen
+37735,Easy A
+399402,Hunter Killer
+450465,Glass
+841,Dune
+13,Forrest Gump
+424139,Halloween
+419680,Daddy's Home 2
+282035,The Mummy
+4348,Pride & Prejudice
+9373,The Texas Chainsaw Massacre
+106,Predator
+8392,My Neighbor Totoro
+136835,No Good Deed
+630,The Wizard of Oz
+1369,Rambo: First Blood Part II
+189,Sin City: A Dame to Kill For
+127380,Finding Dory
+11351,Jeepers Creepers 2
+153158,Underdogs
+393457,Fences
+278927,The Jungle Book
+330459,Rogue One: A Star Wars Story
+1634,Free Willy
+256591,Focus
+546554,Knives Out
+111,Scarface
+8982,The Protector
+181283,Child 44
+36647,Blade
+16577,Astro Boy
+652,Troy
+310131,The Witch
+9792,The Hills Have Eyes
+81005,Jack the Giant Slayer
+58233,Johnny English Reborn
+91586,Insidious: Chapter 2
+9880,The Princess Diaries
+20943,The Ugly Truth
+10140,The Chronicles of Narnia: The Voyage of the Dawn Treader
+9757,Norbit
+10066,House of Wax
+5559,Bee Movie
+153518,The Angry Birds Movie
+9316,Ong Bak: Muay Thai Warrior
+50544,Friends with Benefits
+253412,Everest
+597890,Voyagers
+10229,A Walk to Remember
+13788,The Unborn
+324849,The Lego Batman Movie
+879,Hook
+590223,Love and Monsters
+87827,Life of Pi
+9904,The Wild
+71880,Jack and Jill
+59967,Looper
+257088,Point Break
+158852,Tomorrowland
+76544,Man of Tai Chi
+10925,The Return of the Living Dead
+54138,Star Trek Into Darkness
+676,Pearl Harbor
+43947,I Spit on Your Grave
+195589,Neighbors
+342473,Ballerina
+347126,God's Not Dead 2
+888,The Flintstones
+10948,The Fox and the Hound
+10012,Cursed
+215,Saw II
+287903,Krampus
+599975,Countdown
+98,Gladiator
+10996,Stuart Little 2
+440471,Escape Plan 2: Hades
+9358,Final Destination 2
+12155,Alice in Wonderland
+1427,Perfume: The Story of a Murderer
+101,Léon: The Professional
+205584,Gods of Egypt
+9100,The Craft
+268,Batman
+381284,Hidden Figures
+72571,Paranormal Activity 3
+8645,The Happening
+254470,Pitch Perfect 2
+216282,Into the Storm
+13680,The Game Plan
+857,Saving Private Ryan
+82703,Mr. Peabody & Sherman
+38,Eternal Sunshine of the Spotless Mind
+181533,Night at the Museum: Secret of the Tomb
+41439,Saw 3D
+68812,The Iceman
+578,Jaws
+11886,Robin Hood
+107846,Escape Plan
+62213,Dark Shadows
+8456,Never Back Down
+72213,Courageous
+18126,Hannah Montana: The Movie
+109414,This Is the End
+15512,Monsters vs Aliens
+11631,Mamma Mia!
+11811,Leprechaun
+834,Underworld: Evolution
+9378,Thir13en Ghosts
+109451,Cloudy with a Chance of Meatballs 2
+454619,Overboard
+26389,From Paris with Love
+42889,The Virginity Hit
+43593,Piranha 3D
+65759,Happy Feet Two
+2758,Addams Family Values
+218,The Terminator
+564,The Mummy
+10545,The Hunchback of Notre Dame
+36419,After.Life
+27579,The American
+28178,Hachi: A Dog's Tale
+7443,Chicken Run
+218043,Left Behind
+397567,Along with the Gods: The Two Worlds
+453405,Gemini Man
+10661,You Don't Mess with the Zohan
+276907,Legend
+607,Men in Black
+11036,The Notebook
+205596,The Imitation Game
+76285,Percy Jackson: Sea of Monsters
+6795,Zathura: A Space Adventure
+177677,Mission: Impossible - Rogue Nation
+2383,The Bear
+14001,Dead Silence
+10501,The Road to El Dorado
+341013,Atomic Blonde
+9431,Bordello of Blood
+10992,Cats & Dogs
+7131,Van Helsing
+807,Se7en
+77931,The Smurfs 2
+438650,Cold Pursuit
+267860,London Has Fallen
+1576,Resident Evil
+5174,Rush Hour 3
+152259,Phantom
+170,28 Days Later
+188927,Star Trek Beyond
+9021,The Santa Clause 2
+325133,Neighbors 2: Sorority Rising
+151960,Planes
+214,Saw III
+10073,Date Movie
+93837,So Undercover
+133805,Carrie
+22538,Scott Pilgrim vs. the World
+493922,Hereditary
+9016,Treasure Planet
+13387,Transporter 3
+8247,Jumper
+562,Die Hard
+1374,Rocky IV
+62214,Frankenweenie
+14411,Sinbad: Legend of the Seven Seas
+73723,The Lorax
+310,Bruce Almighty
+1585,It's a Wonderful Life
+10591,The Girl Next Door
+9348,Species
+9730,Friday the 13th: The Final Chapter
+10439,Hocus Pocus
+300668,Annihilation
+2300,Space Jam
+855,Black Hawk Down
+1366,Rocky
+10781,The Texas Chainsaw Massacre: The Beginning
+19556,Miss March
+238713,Spy
+9353,Nacho Libre
+240,The Godfather: Part II
+474395,Teen Titans Go! To the Movies
+348350,Solo: A Star Wars Story
+205587,The Judge
+11130,The Princess Diaries 2: Royal Engagement
+11770,Shaolin Soccer
+16007,Death Note
+137094,Jack Ryan: Shadow Recruit
+10320,The Ring Two
+332562,A Star Is Born
+598,City of God
+5175,Rush Hour 2
+442062,Goosebumps 2: Haunted Halloween
+82390,The Paperboy
+1091,The Thing
+4108,The Transporter
+277,Underworld
+169,Predator 2
+608,Men in Black II
+426543,The Nutcracker and the Four Realms
+489,Good Will Hunting
+419430,Get Out
+109428,Evil Dead
+72559,G.I. Joe: Retaliation
+8358,Cast Away
+22970,The Cabin in the Woods
+192141,No Escape
+9072,Little Man
+588,Silent Hill
+58224,Mr. Popper's Penguins
+460019,Truth or Dare
+375588,Robin Hood
+4951,10 Things I Hate About You
+280217,The Lego Movie 2: The Second Part
+2907,The Addams Family
+433,Mary Poppins
+9340,The Goonies
+116149,Paddington
+640,Catch Me If You Can
+82507,Sinister
+46529,I Am Number Four
+68728,Oz the Great and Powerful
+323272,War Room
+1402,The Pursuit of Happyness
+1370,Rambo III
+458253,Missing Link
+1271,300
+14444,The Rugrats Movie
+13474,P2
+7980,The Lovely Bones
+476968,"Paul, Apostle of Christ"
+121856,Assassin's Creed
+13207,Friday the 13th
+274857,King Arthur: Legend of the Sword
+24831,Piranha
+11917,Saw V
+37169,The Human Centipede (First Sequence)
+41513,The Smurfs
+290595,The Huntsman: Winter's War
+22804,Saw VI
+49527,Man on a Ledge
+18009,Leprechaun 2
+59860,Monte Carlo
+114,Pretty Woman
+59859,Kick-Ass 2
+211672,Minions
+9737,Bad Boys
+28005,Kama Sutra: A Tale of Love
+193756,Lone Survivor
+600,Full Metal Jacket
+50646,"Crazy, Stupid, Love."
+128,Princess Mononoke
+262841,Monster Trucks
+228205,The Longest Ride
+11011,Ri¢hie Ri¢h
+456740,Hellboy
+2109,Rush Hour
+11690,Bloodsport
+679,Aliens
+299687,The 5th Wave
+193610,The Other Woman
+300168,Dragon Blade
+24,Kill Bill: Vol. 1
+10530,Pocahontas
+270303,It Follows
+16859,Kiki's Delivery Service
+377,A Nightmare on Elm Street
+429351,12 Strong
+565,The Ring
+268531,Captain Underpants: The First Epic Movie
+413518,Pinocchio
+277216,Straight Outta Compton
+490132,Green Book
+51540,Horrible Bosses
+95,Armageddon
+298250,Jigsaw
+433808,The Ritual
+252838,The Wedding Ringer
+316029,The Greatest Showman
+1368,First Blood
+77805,Lovelace
+274167,Daddy's Home
+374720,Dunkirk
+1927,Hulk
+254,King Kong
+1417,Pan's Labyrinth
+406990,What Happened to Monday
+308266,War Dogs
+98357,Broken City
+764,The Evil Dead
+399055,The Shape of Water
+192577,Space Pirate Captain Harlock
+82693,Silver Linings Playbook
+185,A Clockwork Orange
+663,Saw IV
+227348,Paranormal Activity: The Marked Ones
+84174,Bachelorette
+137106,The Lego Movie
+41446,Scream 4
+424,Schindler's List
+551804,Freaky
+12222,Horton Hears a Who!
+415214,Operation Mekong
+206487,Predestination
+445651,The Darkest Minds
+1893,Star Wars: Episode I - The Phantom Menace
+132232,Mama
+399019,The Beguiled
+333596,Woodlawn
+72358,A Thousand Words
+197,Braveheart
+9480,Daredevil
+286567,Max Steel
+157845,The Rover
+602,Independence Day
+480881,Let There Be Light
+295693,The Boss Baby
+14564,Rings
+4232,Scream
+238615,Self/less
+1572,Die Hard: With a Vengeance
+11357,Halloween 4: The Return of Michael Myers
+51828,One Day
+2667,The Blair Witch Project
+406997,Wonder
+8078,Alien Resurrection
+44214,Black Swan
+567609,Ready or Not
+11283,Nanny McPhee
+346648,Paddington 2
+162,Edward Scissorhands
+11470,Jason X
+419478,Midnight Sun
+7485,Shooter
+395990,Death Wish
+744,Top Gun
+13991,College
+339988,The Circle
+417678,"Everything, Everything"
+12182,Nick and Norah's Infinite Playlist
+337170,American Made
+10719,Elf
+13767,The Santa Clause 3: The Escape Clause
+458897,Charlie's Angels
+650,Boyz n the Hood
+158011,The Call
+353491,The Dark Tower
+1735,The Mummy: Tomb of the Dragon Emperor
+9470,Kung Fu Hustle
+856,Who Framed Roger Rabbit
+395,AVP: Alien vs. Predator
+443791,Underwater
+121734,"Tad, the Lost Explorer"
+227973,The Peanuts Movie
+9494,Look Who's Talking
+296099,Vacation
+77174,ParaNorman
+296524,Deepwater Horizon
+149870,The Wind Rises
+16353,Ong Bak 2
+12437,Underworld: Rise of the Lycans
+257211,The Intern
+19185,Night of the Living Dead
+11969,Tombstone
+627290,Antebellum
+242,The Godfather: Part III
+217993,Justice League: War
+127493,Stolen
+164558,One Direction: This Is Us
+14011,Justice League: The New Frontier
+401981,Red Sparrow
+45772,Gnomeo & Juliet
+5825,National Lampoon's Christmas Vacation
+10014,A Nightmare on Elm Street Part 2: Freddy's Revenge
+1375,Rocky V
+9360,Anaconda
+86834,Noah
+948,Halloween
+9473,"South Park: Bigger, Longer & Uncut"
+343795,90 Minutes in Heaven
+258509,Alvin and the Chipmunks: The Road Chip
+9070,Mighty Morphin Power Rangers: The Movie
+114150,Pitch Perfect
+769,GoodFellas
+563,Starship Troopers
+16871,Drag Me to Hell
+1970,The Grudge
+417384,Scary Stories to Tell in the Dark
+10528,Sherlock Holmes
+184314,Young & Beautiful
+9725,Friday the 13th Part 2
+18937,Quest for Camelot
+18925,Facing the Giants
+353616,Pitch Perfect 3
+501170,Doctor Sleep
+9320,The Avengers
+82654,Warm Bodies
+204082,Homefront
+324668,Jason Bourne
+1979,Fantastic Four: Rise of the Silver Surfer
+381719,Peter Rabbit
+16538,"I Love You, Man"
+3980,Critters
+23437,A Nightmare on Elm Street
+9513,Garfield: A Tail of Two Kitties
+88751,Journey to the Center of the Earth
+256274,"As Above, So Below"
+1371,Rocky III
+11459,Sky High
+58431,Pride and Prejudice and Zombies
+6537,The Orphanage
+11284,Freddy's Dead: The Final Nightmare
+346685,The Girl on the Train
+163,Ocean's Twelve
+8643,The Exorcism of Emily Rose
+335788,Renegades
+137116,Smurfs: The Lost Village
+63311,The Skin I Live In
+13523,Sex Drive
+415842,American Assassin
+11001,Blue Streak
+11887,High School Musical 3: Senior Year
+508,Love Actually
+74,War of the Worlds
+335796,Ouija: Origin of Evil
+334521,Free Fire
+244566,Life After Beth
+16052,Selena
+301351,We Are Your Friends
+11453,Deuce Bigalow: European Gigolo
+30497,The Texas Chain Saw Massacre
+10281,Friday the 13th Part VII: The New Blood
+1646,Freedom Writers
+254473,Brick Mansions
+249164,If I Stay
+4011,Beetlejuice
+302946,The Accountant
+621,Grease
+1924,Superman
+43539,The Next Three Days
+17578,The Adventures of Tintin
+10096,13 Going on 30
+2668,Sleepy Hollow
+399360,Alpha
+75612,Oblivion
+38356,Transformers: Dark of the Moon
+329996,Dumbo
+243688,Poltergeist
+144336,Sabotage
+2048,"I, Robot"
+10402,Deuce Bigalow: Male Gigolo
+531309,Brightburn
+10664,[REC]²
+404733,Overdrive
+9335,Transporter 2
+7451,xXx
+6114,Bram Stoker's Dracula
+180299,The Raid 2
+70436,The Raven
+39538,Contagion
+8835,Legally Blonde
+14324,Virgin Territory
+508763,A Dog's Way Home
+11247,A Cinderella Story
+954,Mission: Impossible
+6145,Fracture
+242512,Ouija
+346808,Momentum
+347375,Mile 22
+440021,Happy Death Day
+10483,Death Race
+10823,Children of the Corn
+2501,The Bourne Identity
+423,The Pianist
+50014,The Help
+266856,The Theory of Everything
+11565,Big Momma's House 2
+57089,Hoodwinked Too! Hood VS. Evil
+9738,Fantastic Four
+37056,Letters to Juliet
+4922,The Curious Case of Benjamin Button
+2502,The Bourne Supremacy
+382322,Batman: The Killing Joke
+484641,Anna
+345920,Collateral Beauty
+1372,Blood Diamond
+264660,Ex Machina
+1620,Hitman
+25195,Leap Year
+365222,Ip Man 3
+274870,Passengers
+2251,Unfaithful
+36586,Blade II
+1949,Zodiac
+296,Terminator 3: Rise of the Machines
+10065,The Amityville Horror
+7840,"10,000 BC"
+445629,Fighting with My Family
+239563,St. Vincent
+956,Mission: Impossible III
+949,Heat
+39451,Little Fockers
+515001,Jojo Rabbit
+51739,The Secret World of Arrietty
+924,Dawn of the Dead
+10865,Atlantis: The Lost Empire
+1265,Bridge to Terabithia
+1573,Die Hard 2
+12180,Star Wars: The Clone Wars
+399035,The Commuter
+44833,Battleship
+11978,Men of Honor
+11451,Herbie Fully Loaded
+103,Taxi Driver
+11077,Problem Child
+1581,The Holiday
+37799,The Social Network
+8065,21
+8975,The Marine
+629,The Usual Suspects
+395992,Life
+10283,Friday the 13th Part VIII: Jason Takes Manhattan
+9594,Double Impact
+18,The Fifth Element
+530385,Midsommar
+1813,The Devil's Advocate
+38317,Zookeeper
+256961,Paul Blart: Mall Cop 2
+4488,Friday the 13th
+84892,The Perks of Being a Wallflower
+64328,The Muppets
+7220,The Punisher
+37165,The Truman Show
+1895,Star Wars: Episode III - Revenge of the Sith
+752,V for Vendetta
+78,Blade Runner
+787,Mr. & Mrs. Smith
+441130,Wolfwalkers
+314095,The Lost City of Z
+487297,What Men Want
+1452,Superman Returns
+11361,Halloween 5: The Revenge of Michael Myers
+379149,The Foreigner
+227159,Horrible Bosses 2
+1891,The Empire Strikes Back
+465136,Every Day
+146233,Prisoners
+290098,The Handmaiden
+277834,Moana
+42297,Burlesque
+251,Ghost
+1367,Rocky II
+323675,Ride Along 2
+4233,Scream 2
+10225,Friday the 13th Part VI: Jason Lives
+38778,Dinner for Schmucks
+77951,Walking with Dinosaurs
+10830,Matilda
+2309,Inkheart
+196867,Annie
+5548,RoboCop
+48988,Hall Pass
+2034,Training Day
+120467,The Grand Budapest Hotel
+2157,Lost in Space
+1824,50 First Dates
+43949,Flipped
+402,Basic Instinct
+415,Batman & Robin
+225565,That Awkward Moment
+14574,The Boy in the Striped Pyjamas
+44826,Hugo
+591,The Da Vinci Code
+10634,Friday
+56288,Spy Kids: All the Time in the World
+194662,Birdman or (The Unexpected Virtue of Ignorance)
+77930,Magic Mike
+1830,Lord of War
+40807,50/50
+80280,[REC]³ Genesis
+296098,Bridge of Spies
+249660,God's Not Dead
+9969,Deck the Halls
+31011,Mr. Nobody
+6977,No Country for Old Men
+417870,Girls Trip
+11090,The Animal
+271706,Big Fish & Begonia
+85,Raiders of the Lost Ark
+9874,Cobra
+512196,Happy Death Day 2U
+1422,The Departed
+503919,The Lighthouse
+116745,The Secret Life of Walter Mitty
+1359,American Psycho
+142,Brokeback Mountain
+35056,Date Night
+13183,Watchmen
+328387,Nerve
+431530,A Bad Moms Christmas
+9928,Robots
+8077,Alien³
+7347,Elite Squad
+9312,Mortal Kombat
+9823,Mortal Kombat: Annihilation
+667,You Only Live Twice
+19404,Dilwale Dulhania Le Jayenge
+36648,Blade: Trinity
+321258,The Boy
+38303,You Again
+272878,Max
+7191,Cloverfield
+1894,Star Wars: Episode II - Attack of the Clones
+64682,The Great Gatsby
+356305,Why Him?
+61012,Silent Hill: Revelation 3D
+4032,My Girl
+1635,The Island
+267193,Grimsby
+1571,Live Free or Die Hard
+5689,The Blue Lagoon
+578189,Black and Blue
+272693,The DUFF
+714,Tomorrow Never Dies
+243683,Step Up All In
+207932,Inferno
+39691,Cats & Dogs: The Revenge of Kitty Galore
+80274,Ender's Game
+16140,Death Note: The Last Name
+345911,Lights Out
+438799,Overlord
+8204,The Spiderwick Chronicles
+274862,The Lego Ninjago Movie
+313369,La La Land
+271718,Trainwreck
+293768,Kidnap
+171424,The Green Inferno
+264999,Magic Mike XXL
+9567,Tears of the Sun
+364,Batman Returns
+2082,Halloween
+73,American History X
+185341,[REC]⁴ Apocalypse
+24100,The Little Vampire
+230179,Big Game
+299824,Mojin: The Lost Legend
+23049,My Life in Ruins
+32856,Valentine's Day
+9509,Man on Fire
+393,Kill Bill: Vol. 2
+81,Nausicaä of the Valley of the Wind
+165,Back to the Future Part II
+10552,Cat's Eye
+8913,Pet Sematary
+107985,The World's End
+10314,She's All That
+73499,The Double
+745,The Sixth Sense
+9641,Cheaper by the Dozen 2
+13804,Fast & Furious
+11824,Teen Wolf
+196,Back to the Future Part III
+927,Gremlins
+407451,A Wrinkle in Time
+107811,21 & Over
+57876,Area 51
+2123,"Me, Myself & Irene"
+10047,The Messenger: The Story of Joan of Arc
+1562,28 Weeks Later
+36643,The World Is Not Enough
+324542,Sleepless
+271969,Ben-Hur
+871,Planet of the Apes
+1124,The Prestige
+11007,Cheaper by the Dozen
+41280,Private Lessons
+333371,10 Cloverfield Lane
+38321,Priest
+397837,Before I Fall
+9073,Free Willy 2: The Adventure Home
+309809,The Little Prince
+28,Apocalypse Now
+20504,The Book of Eli
+37821,Killers
+80278,The Impossible
+376290,Miss Sloane
+325348,Hardcore Henry
+3580,Changeling
+770,Gone with the Wind
+57157,Young Adult
+700,Octopussy
+619,The Bodyguard
+802,Lolita
+361292,Suspiria
+154400,The Drop
+521777,Good Boys
+1593,Night at the Museum
+505600,Booksmart
+28260,Return of the Living Dead III
+10676,Halloween III: Season of the Witch
+203801,The Man from U.N.C.L.E.
+9334,The Scorpion King
+796,Cruel Intentions
+6957,The 40 Year Old Virgin
+504172,The Mule
+436391,The Battleship Island
+535292,21 Bridges
+89,Indiana Jones and the Last Crusade
+7518,Over the Hedge
+261392,American Ultra
+124459,The Incredible Burt Wonderstone
+1487,Hellboy
+336882,The Wave
+22949,Old Dogs
+869,Planet of the Apes
+13885,Sweeney Todd: The Demon Barber of Fleet Street
+294272,Pete's Dragon
+9273,Ace Ventura: When Nature Calls
+9837,The Prince of Egypt
+302156,Criminal
+340676,Personal Shopper
+9731,Friday the 13th: A New Beginning
+10285,Jason Goes to Hell: The Final Friday
+9603,Clueless
+417859,Puss in Boots
+7214,Coach Carter
+157433,Pet Sematary
+36669,Die Another Day
+228066,Victor Frankenstein
+96721,Rush
+6282,Coyote Ugly
+65650,The Good Doctor
+353070,Going in Style
+1701,Con Air
+4929,Hang 'em High
+21407,The Collector
+369972,First Man
+11618,The Haunting
+11679,xXx: State of the Union
+8916,Antz
+310307,The Founder
+10489,Cujo
+326284,Pound of Flesh
+35019,Nanny McPhee and the Big Bang
+235260,Son of God
+747,Shaun of the Dead
+236751,Heaven Is for Real
+9992,Arthur and the Invisibles
+34480,The Descent: Part 2
+395991,Only the Brave
+9339,Click
+1933,The Others
+22824,The Fourth Kind
+400650,Mary Poppins Returns
+109410,42
+1892,Return of the Jedi
+14,American Beauty
+782,Gattaca
+259694,How to Be Single
+698,Moonraker
+467938,Revenge
+11596,New Nightmare
+9441,Stepmom
+68730,Silence
+170687,The Boxtrolls
+334543,Lion
+273248,The Hateful Eight
+1954,The Butterfly Effect
+4442,The Brothers Grimm
+9003,Hellraiser
+7278,Meet the Spartans
+10222,Kickboxer
+9679,Gone in Sixty Seconds
+77950,Turbo
+795,City of Angels
+9319,The Last Boy Scout
+161,Ocean's Eleven
+929,Godzilla
+60935,The Thing
+609,Poltergeist
+72570,The Vow
+7459,Speed Racer
+71668,Piranha 3DD
+10999,Commando
+76203,12 Years a Slave
+531428,Portrait of a Lady on Fire
+47327,Drive Angry
+1495,Kingdom of Heaven
+207,Dead Poets Society
+10866,Joy Ride
+453,A Beautiful Mind
+8487,Wild Wild West
+11253,Hellboy II: The Golden Army
+318781,Colonia
+583406,Judas and the Black Messiah
+1690,Hostel
+806,The Omen
+72710,The Host
+13510,Eden Lake
+335778,Risen
+363676,Sully
+55,Amores Perros
+254904,The November Man
+345,Eyes Wide Shut
+38745,Gulliver's Travels
+16866,Planet 51
+75638,Red Lights
+41233,Step Up 3D
+458723,Us
+670,Oldboy
+205775,In the Heart of the Sea
+340666,Nocturnal Animals
+1948,Crank
+1498,Teenage Mutant Ninja Turtles
+11619,Flushed Away
+85446,Step Up Revolution
+168672,American Hustle
+289222,The Zookeeper's Wife
+246403,Tusk
+10330,Freaky Friday
+424277,Annette
+70074,Bullet to the Head
+12139,Dennis the Menace
+492188,Marriage Story
+8810,Mad Max 2
+194,Amélie
+18162,Land of the Lost
+681,Diamonds Are Forever
+2636,The Specialist
+955,Mission: Impossible II
+9012,Jackass: The Movie
+329440,The Forest
+8467,Dumb and Dumber
+76493,The Dictator
+283445,Sinister 2
+8095,Cleopatra
+218836,Planes: Fire & Rescue
+1885,The Karate Kid
+11231,The Next Karate Kid
+709,Licence to Kill
+928,Gremlins 2: The New Batch
+3600,I Still Know What You Did Last Summer
+417261,Forever My Girl
+489999,Searching
+594,The Terminal
+204922,Before I Go to Sleep
+14813,Mickey's Christmas Carol
+188161,A Million Ways to Die in the West
+1995,Lara Croft: Tomb Raider
+11212,Baby's Day Out
+157386,The Spectacular Now
+27022,The Sorcerer's Apprentice
+1636,Bedazzled
+587272,Father There Is Only One
+668,On Her Majesty's Secret Service
+9362,Tremors
+3049,Ace Ventura: Pet Detective
+241239,A Most Violent Year
+6950,Outbreak
+9972,Lock Up
+152601,Her
+628,Interview with the Vampire
+1700,Misery
+49012,Arthur
+318846,The Big Short
+9600,Big Momma's House
+452773,"Tad, the Lost Explorer, and the Secret of King Midas"
+765,Evil Dead II
+861,Total Recall
+217,Indiana Jones and the Kingdom of the Crystal Skull
+707,A View to a Kill
+11358,Walking Tall
+402529,All Eyez on Me
+3597,I Know What You Did Last Summer
+62,2001: A Space Odyssey
+33408,The Crush
+1975,The Grudge 2
+112205,The Family
+9741,Unbreakable
+334541,Manchester by the Sea
+513045,Stuber
+710,GoldenEye
+1931,Stomp the Yard
+2164,Stargate
+12405,Slumdog Millionaire
+33542,Rumble in the Bronx
+11442,Halloween: Resurrection
+9982,Chicken Little
+429300,Adrift
+4234,Scream 3
+522924,The Art of Racing in the Rain
+369885,Allied
+1360,Frida
+87,Indiana Jones and the Temple of Doom
+446791,All the Money in the World
+190955,Blood Ties
+9602,Coming to America
+400157,Wonder Park
+403119,47 Meters Down
+9659,Mad Max
+503616,Second Act
+7484,Open Season
+397422,Rough Night
+464502,Acrimony
+329,Jurassic Park
+1911,The 13th Warrior
+699,For Your Eyes Only
+1391,Y Tu Mamá También
+9825,Lake Placid
+2662,House of 1000 Corpses
+155084,13 Sins
+333669,Bastille Day
+12599,Pokémon: The Movie 2000
+9352,EuroTrip
+853,Enemy at the Gates
+208134,Jackass Presents: Bad Grandpa
+36691,Solitary Man
+10665,The Strangers
+7340,Carrie
+1656,The Legend of Zorro
+4982,American Gangster
+397852,Rendel
+10647,Pay It Forward
+152760,The Monuments Men
+49730,Red Riding Hood
+283552,The Light Between Oceans
+65086,The Woman in Black
+814,An American Werewolf in London
+5876,The Mist
+20178,World's Greatest Dad
+10131,A Nightmare on Elm Street 4: The Dream Master
+296100,The Night Before
+292280,The Bye Bye Man
+2023,Hidalgo
+8068,Desperado
+9802,The Rock
+137093,Last Vegas
+109431,Identity Thief
+941,Lethal Weapon
+9481,The Bone Collector
+65057,The Descendants
+10294,Vacancy
+226486,Tammy
+1588,Bring It On
+97020,RoboCop
+137321,Winter's Tale
+1273,TMNT
+376867,Moonlight
+437557,Blockers
+12096,The Pink Panther
+9728,Friday the 13th Part III
+438689,Siberia
+332567,The Shallows
+8843,The Cell
+50321,Mars Needs Moms
+9669,Ringu 2
+10357,Volcano
+122857,Universal Soldier: Day of Reckoning
+38117,Beastly
+10603,George of the Jungle
+82990,Paranormal Activity 4
+10007,See No Evil
+392044,Murder on the Orient Express
+302401,Snowden
+77,Memento
+325789,The Infiltrator
+9341,The Core
+287424,Maggie
+9655,She's the Man
+33,Unforgiven
+37950,Charlie St. Cloud
+510,One Flew Over the Cuckoo's Nest
+44115,127 Hours
+682,The Man with the Golden Gun
+226857,Endless Love
+10307,Stigmata
+9539,Martyrs
+4638,Hot Fuzz
+333667,Rock Dog
+316023,Mike and Dave Need Wedding Dates
+13056,Punisher: War Zone
+195590,Collide
+1643,Last Tango in Paris
+554241,Playing with Fire
+174751,Jane Got a Gun
+382614,The Book of Henry
+708,The Living Daylights
+548473,Color Out of Space
+76025,Shame
+525661,Bombshell
+340945,USS Indianapolis: Men of Courage
+1247,The Good Shepherd
+146239,Delivery Man
+13223,Gran Torino
+473149,Traffik
+582,The Lives of Others
+290512,The Mountain Between Us
+88,Dirty Dancing
+25,Jarhead
+14191,Aquamarine
+19824,Van Wilder: Freshman Year
+396371,Molly's Game
+616,The Last Samurai
+9766,Gridiron Gang
+539,Psycho
+2024,The Patriot
+430040,The Hurricane Heist
+9906,The Ant Bully
+57212,War Horse
+445954,Acts of Vengeance
+376660,The Edge of Seventeen
+947,Lawrence of Arabia
+6171,Dreamcatcher
+49047,Gravity
+7183,Perfect Stranger
+10987,Halloween: The Curse of Michael Myers
+9383,Hollow Man
+4858,The Invasion
+3093,Basic Instinct 2
+459910,Braven
+8856,The Karate Kid Part II
+2503,The Bourne Ultimatum
+522212,Just Mercy
+266294,Sisters
+1246,Rocky Balboa
+9342,The Mask of Zorro
+5549,RoboCop 2
+300673,The Finest Hours
+339259,The Man with the Iron Heart
+440472,The Upside
+9350,Cliffhanger
+389,12 Angry Men
+581,Dances with Wolves
+48171,The Rite
+11096,Hide and Seek
+170522,Asterix: The Mansions of the Gods
+13027,Eagle Eye
+11252,Psycho
+326423,Barbershop: The Next Cut
+500664,Upgrade
+418437,Unforgettable
+539537,Fantasy Island
+508664,Danger Close: The Battle of Long Tan
+297,Meet Joe Black
+942,Lethal Weapon 2
+9344,Kids
+11281,Halloween II
+7551,Déjà Vu
+4513,30 Days of Night
+12149,Frailty
+10157,Police Academy 2: Their First Assignment
+293863,The Age of Adaline
+458423,Mamma Mia! Here We Go Again
+2019,Hard Target
+11153,National Lampoon's Vacation
+601,E.T. the Extra-Terrestrial
+399404,Darkest Hour
+72784,The Loft
+33217,Diary of a Wimpy Kid
+83542,Cloud Atlas
+300681,Replicas
+2057,Original Sin
+1878,Fear and Loathing in Las Vegas
+9454,EverAfter
+484247,A Simple Favor
+309886,Blood Father
+446807,The Girl in the Spider's Web
+329833,Zoolander 2
+63,Twelve Monkeys
+575094,Abigail
+70868,I Don't Know How She Does It
+106747,Machete Kills
+368940,Robinson Crusoe
+11531,Book of Shadows: Blair Witch 2
+372343,The Snowman
+625568,Unhinged
+244,King Kong
+417644,CHiPS
+45657,The Ward
+184098,Think Like a Man Too
+10060,Get Rich or Die Tryin'
+8393,The Gods Must Be Crazy
+13515,Mirrors
+12162,The Hurt Locker
+301337,Downsizing
+153,Lost in Translation
+10494,Perfect Blue
+8698,The League of Extraordinary Gentlemen
+9693,Children of Men
+26022,My Name Is Khan
+4614,The Sum of All Fears
+253,Live and Let Die
+8009,Highlander
+10068,Nine 1/2 Weeks
+388,Inside Man
+75674,Act of Valor
+455980,Tag
+414,Batman Forever
+44040,Devil
+11808,U.S. Marshals
+399366,Marrowbone
+41402,Let Me In
+9406,An American Werewolf in Paris
+1624,Liar Liar
+60307,Diary of a Wimpy Kid: Rodrick Rules
+316152,Free State of Jones
+16288,Creepshow 2
+2671,Ringu
+270774,Skiptrace
+923,Dawn of the Dead
+72207,The Five-Year Engagement
+788,Mrs. Doubtfire
+200,Star Trek: Insurrection
+10423,Dragon: The Bruce Lee Story
+44865,The Grandmaster
+691,The Spy Who Loved Me
+10189,Pineapple Express
+8536,Superman II
+27,9 Songs
+24548,Just One of the Guys
+11362,The Count of Monte Cristo
+340837,A Cure for Wellness
+9064,Hellbound: Hellraiser II
+289,Casablanca
+10400,The Hurricane
+79,Hero
+9763,Goal!
+11586,Exorcist II: The Heretic
+49049,Dredd
+39514,RED
+9966,The Messengers
+395834,Wind River
+152,Star Trek: The Motion Picture
+9804,Waterworld
+11774,Lemony Snicket's A Series of Unfortunate Events
+328111,The Secret Life of Pets
+49022,Something Borrowed
+460668,I Feel Pretty
+109443,Anchorman 2: The Legend Continues
+10431,War
+11968,Into the Blue
+413644,The Son of Bigfoot
+13888,Return to the Blue Lagoon
+1018,Mulholland Drive
+12253,Biker Boyz
+10336,Spawn
+2140,Kiss of the Dragon
+660,Thunderball
+3512,Under Siege 2: Dark Territory
+9043,The Family Stone
+115210,Stitches
+10315,Fantastic Mr. Fox
+9477,King Arthur
+8741,The Thin Red Line
+365942,The Space Between Us
+242224,The Babadook
+12122,Village of the Damned
+19959,Surrogates
+4141,Shoot 'Em Up
+252680,Moms' Night Out
+658,Goldfinger
+10991,Pokémon 3: The Movie - Spell of the Unown
+10159,The Rundown
+713,The Piano
+2268,The Golden Compass
+314365,Spotlight
+755,From Dusk Till Dawn
+336004,Heist
+9313,The Man in the Iron Mask
+52449,Bad Teacher
+470044,The Hate U Give
+509853,The Fanatic
+9529,Candyman
+1729,The Forbidden Kingdom
+6961,The Wedding Date
+197796,Beauty and the Beast
+458305,Vivarium
+44048,Unstoppable
+381283,mother!
+335777,The Nut Job 2: Nutty by Nature
+555974,Brahms: The Boy II
+19585,G-Force
+54318,The Water Horse
+351339,Anthropoid
+55465,A Very Harold & Kumar Christmas
+11667,Street Fighter
+88005,Seeking a Friend for the End of the World
+754,Face/Off
+10204,Around the World in 80 Days
+199373,The Frozen Ground
+8656,Deep Impact
+6637,National Treasure: Book of Secrets
+11260,Meet Dave
+146198,Triple 9
+10474,The Basketball Diaries
+9355,Mad Max Beyond Thunderdome
+8848,The Bank Job
