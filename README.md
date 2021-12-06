@@ -56,26 +56,20 @@ ratings_enc = {
 8. After encoding we noticed that budget, revenue, votes, and popularity scores had a wide range of numbers so we standardized those.
 9. We then split the data using the default setting from sklearn's testtrainsplit module which is 75/25
 
+For the model choice we decided to do a Logistic regression using a boolean to determine whether a movie was a success or not. The model does provide us a prediction of whether a movie will be successful however it does not give the estimated revenue that it is predicting only a yes or no. A benefit is that our model can be used as a quick identifier of whether a movie is a success or not. 
 
-For the model choice we decided to do a Logistic regression using a boolean to determine whether a movie was a success or not. The model does provide us a prediction of whether a movie will be successful however it does not give the estimated revenue that it is predicting only a yes or no. A benefit is that our model can be used as a quick identifier of whether a movie is a success or not.
+For the scaling and training we just used x_train, y_train, x_scaled, y_scaled for our machine learning. At first our model was using a sample data set that we had gotten throught the API that, after thorough data cleaning, resulted in only 70 usable rows of data for the machine learning to train from and predict. After we had established a good system of cleaning the data after the API and sending it to the database and converting it into a CSV, we had gotten close to 2000 usable movies. The movies were taken from the first 200 pages of popular films. Part of the limitation was due to Heroku having a smaller row count due to being free.
+Our accuracy scores ranged from 50% to 85% in the machine learning. It was purely predicting if the outcome of variables would result in a film making 2 times its original budget. The inaccuracy in itself after all the cleaning can be explained as movies just being difficult to predict if it will be a success or not. The limited data set, though still varied and inclusionary, compared to other topics can also be part of the machine learning having a difficult time even after training. However, even in the business world of filmmaking there are many outliers due to changing public interest, luck, or other unforseen variables. 
 
 ![image](https://user-images.githubusercontent.com/83510059/143798774-e2c6ed98-dc6f-4a02-aed2-ab8f0750544b.png)
 
 ![image](https://user-images.githubusercontent.com/83510059/143798790-78d1fe21-6c8a-4e8a-99a4-0e86ff839544.png)
 
-## Communication Protocols
-* Meeting Times: 
-  * Daily at 6:30PM - 8:30PM if there is no class time
-  * Use Slack to update others on what we are working on individually
-  * Use Discord to meet for meetings
-
-At first we used Zoom for our meetings due to familiarity of the app through class. However, we soon found out that Zoom had a short time limit of about an hour for video conferences, to we decided to use another free app, [Discord](discord.com) in place of it. Through our Discord server created specifically for the project, any of us can join into a voice chat room at any point in time without having to start a specific conference as well as share all our screens at once if necessary. Our meetings typically lasted for 2 hours and any other questions or concerns done outside of them were done through Slack.
-
 ## Segment Roles:
-* __*Andrew*__: Square --> Square
-* __*Freddie*__: Triangle --> Square
-* __*Sean*__: Circle --> Triangle
-* __*Peter*__: X --> X 
+* __*Andrew*__: Square --> Square --> Square
+* __*Freddie*__: Triangle --> Square --> Triangle
+* __*Sean*__: Circle --> Triangle --> X
+* __*Peter*__: X --> X --> Triangle
 * __*Lanisha*__: Circle --> 
 
 ## Segment Notes
@@ -96,7 +90,6 @@ At first we used Zoom for our meetings due to familiarity of the app through cla
   * for movies, a typical rule of thumb on if it made its money back is 2x the original budget. the extra half is used for marketing.
   * if revenue > (2 * budget) then it made a profit
 * Machine learning skeletons are placed in Tables folder
-
 
 ### Segment 2
 * Finalize the database
