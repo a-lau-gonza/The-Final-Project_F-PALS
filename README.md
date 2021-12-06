@@ -3,6 +3,8 @@ For our final project we will be using machine learning on past, present, and fu
 
 Our presentation on Google Slides can be found with either the above link or __[here](https://docs.google.com/presentation/d/1K_GDT5Z9gXgQocvto1T3PfcPokiHEzsp4WKGlrQmI7w/edit?usp=sharing).__
 
+The Tableau dashboard can be found with the link [here](https://public.tableau.com/app/profile/freddie.cunha/viz/PopularMovieData/Story1).
+
 ## __Profitibility of Movies Through Machine Learning__
 ### Why did we pick movies? And what are we hoping to answer?
 __*Movies*__ are a cornerstone of culture worldwide as well as being one of the most lucrative businesses in media. They are a subject in which all of us within the group could relate with the sheer volume and appeal of which, there's a movie for everyone! There was an abundant amount of data available	for us to collect, especially with box office successes. For our final project we wanted to create a machine learning algorithm to predict how successful a movie would become on release as well as potential losses in profits due to a flop. 
