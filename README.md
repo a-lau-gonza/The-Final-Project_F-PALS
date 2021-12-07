@@ -1,9 +1,9 @@
 # F-PALS: [The Final Project](https://docs.google.com/presentation/d/1K_GDT5Z9gXgQocvto1T3PfcPokiHEzsp4WKGlrQmI7w/edit?usp=sharing)
 For our final project we will be using machine learning on past, present, and future movies to predict and interpret revenue to dictate wether it was a success or not!
 
-Our presentation on Google Slides can be found with either the above link or __[here](https://docs.google.com/presentation/d/1K_GDT5Z9gXgQocvto1T3PfcPokiHEzsp4WKGlrQmI7w/edit?usp=sharing).__
+Our presentation on __*Google Slides*__ can be found with either the above link or __[HERE](https://docs.google.com/presentation/d/1K_GDT5Z9gXgQocvto1T3PfcPokiHEzsp4WKGlrQmI7w/edit?usp=sharing).__
 
-The Tableau dashboard can be found with the link [here](https://public.tableau.com/app/profile/freddie.cunha/viz/PopularMovieData/Story1).
+The Tableau dashboard can be found with the link __[HERE](https://public.tableau.com/app/profile/freddie.cunha/viz/PopularMovieData/Story1).__
 
 ## __Profitibility of Movies Through Machine Learning__
 ### Why did we pick movies? And what are we hoping to answer?
