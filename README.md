@@ -153,35 +153,3 @@ __*Peter*__:
 4. :
 
 __*Lanisha*__:
-
-
-## Segment Notes
-### Segment 1
-* Pre-viz variables: actor/popularity_score, actor_id, director, director_id, studio, studio_id, producer, producer_id, budget, genre_id, genre, release date (encoded), release month (encoded), popularity, vote_avg, language, title, title_id, imdb_id, revenue
-* Official variables: 
-  * famous_actors: character, actor_gender, actor_id, actor_name (name), actor_popularity, movie_id
-  * famous_directors: director_gender, director_id, director_name (name), director_popularity, movie_id
-  * famous_studios: studio_id, movie_id, studio_name, origin_country
-  * movies: movie_id, movie_title, budget, revenue, release_date, vote_average, movie_popularity, original_language, genre, genre_id, age_rating
-* 11/19 due date: finishing up the CSVs (clean and update), technology.md, scheme, and sample database
-* Quick notes on data cleaning: 
-  * remove adult films
-  * remove films with 0 in either budget or revenue
-  * remove films with low vote_count to avoid small pop. bias
-  * drop null values
-  * boolean value for ML will be "hit"/"flop" (boolean pending) which will represent whether a movie made back its theorhetical budget or not
-  * for movies, a typical rule of thumb on if it made its money back is 2x the original budget. the extra half is used for marketing.
-  * if revenue > (2 * budget) then it made a profit
-* Machine learning skeletons are placed in Tables folder
-
-### Segment 2
-* Finalize the database
-  * Went with Heroku to avoid charges
-  * Finalized all the joins and columns to be ready for ML integration
-* Continue working on fine tuning the ML algorithms 
-* Create a Google slide for presentation
-
-### Segment 3
-* Organize and sort the studios and genres alphabetically
-  * This way the ML reads the combination of the genres and studios as a value when encoding, also to eliminate any repeats of the same studios/genres, but in a different order which would count as another category in the encoding
-  * Also removed spaces, since it would eliminate more unnecessary data
