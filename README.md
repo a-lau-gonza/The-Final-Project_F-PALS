@@ -132,10 +132,10 @@ __*Freddie*__:
 4. :
 
 __*Sean*__: 
-1. Circle: Database
-2. Triangle: 
-3. X: 
-4. :
+1. Circle: Mainly responsible for creating the ERD and creating a test database, as well as outline database interaction with machine learning.
+2. Triangle: Built the database for the project using Heroku as a host and PostgreSQL to process the data.
+3. X: Tested data by taking it from ETL models, adding it to the database, and compiling it into files for the machine learning models.
+4. : Assisted by creating a few visualizations for the Tableau Dash Board.
 
 __*Peter*__: 
 1. X: 
