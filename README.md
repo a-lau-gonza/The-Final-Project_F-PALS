@@ -147,9 +147,9 @@ __*Sean*__:
 4. : Assisted by creating a few visualizations for the Tableau Dash Board.
 
 __*Peter*__: 
-1. X: 
-2. X: 
-3. Circle: 
-4. :
+1. X: Helped determine technologies to use along with other team members. Created technology.md file and pushed to github repo. 
+2. X: Began developing dashboard on Tableau with test data set, began GoogleSlides presentation and layout.
+3. Circle: Helped create storyboard and dashboard with full data set. Worked on visualizations and GoogleSlides presentation.
+4. : Finalized Tableau Story and visualizations
 
 __*Lanisha*__:
