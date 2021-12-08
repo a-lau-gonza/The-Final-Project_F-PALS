@@ -126,10 +126,10 @@ __*Andrew*__:
 4. Square: 
 
 __*Freddie*__: 
-1. Triangle: Responsible for Machine Learning/Assisted in Database 
-2. Circle: 
-3. Triangle: 
-4. :
+1. Triangle: Responsible for Machine Learning and data cleaning. Assisted in creating database
+2. Circle: Preprocessed data for ML. Assisted with managing Git Hub
+3. Triangle: Increased API pull and added data to database. Cleaned new data and preprocessed it for ML
+4. : Created graphs for visualization, created dashboards, Assisted in creating Tabluea story and Google Slides. Helped edit ReadMe.
 
 __*Sean*__: 
 1. Circle: Mainly responsible for creating the ERD and creating a test database, as well as outline database interaction with machine learning.
