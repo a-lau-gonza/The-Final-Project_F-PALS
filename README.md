@@ -124,21 +124,25 @@ __*Andrew*__:
 2. Square: 
 3. Square: 
 4. Square: 
+
 __*Freddie*__: 
 1. Triangle: Responsible for Machine Learning/Assisted in Database 
 2. Circle: 
 3. Triangle: 
 4. :
+
 __*Sean*__: 
 1. Circle: Database
 2. Triangle: 
 3. X: 
 4. :
+
 __*Peter*__: 
 1. X: 
 2. X: 
 3. Circle: 
 4. :
+
 __*Lanisha*__: 
 1. Circle
 2. 
