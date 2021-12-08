@@ -121,9 +121,9 @@ For our project, we worked together almost daily. This resulted in much overlap 
 
 __*Andrew*__:
 1. Square: Mainly responsible for GitHub/Assisted in Machine Learning Preprocessing and Model Choice
-2. Square: 
-3. Square: 
-4. Square: 
+2. Square: Mainly responsible for Machine Learning/Kept up GitHub and README
+3. Square: Updated README/.gitignore was added in Segment 1/Continued to work on ML/Assisted Google Slides
+4. Square: Finalizing README/Google Slides
 
 __*Freddie*__: 
 1. Triangle: Responsible for Machine Learning and data cleaning. Assisted in creating database
