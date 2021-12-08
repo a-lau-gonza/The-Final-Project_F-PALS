@@ -118,7 +118,7 @@ Our accuracy scores ranged from 50% to 85% in the machine learning. It was purel
 
 ## Segment Roles:
 * __*Andrew*__: Square --> Square --> Square
-* __*Freddie*__: Triangle --> Square --> Triangle
+* __*Freddie*__: Triangle --> Circle --> Triangle
 * __*Sean*__: Circle --> Triangle --> X
 * __*Peter*__: X --> X --> Circle
 * __*Lanisha*__: Circle --> 
