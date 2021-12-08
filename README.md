@@ -38,6 +38,55 @@ Our hypotheses on the other influential variables such as with studios and actor
 
 Another noted point of interest was movie franchises, some of the still popular movies to this day are connected to other movies by either being a part of the sequels or being in the franchise. There is no category for this within the API pull, however some examples of profitable franchises are Star Wars and Harry Potter, with each film more than making a profit even included the rule of thumb marketing costs.
 
+## Technologies
+### Data Cleaning and Analysis
+The Pandas library and Jupter Notebooks will be used for the initial EDA and to clean the data. The link to The Movie DataBase and it's API can be found in the project README, but all data was obtained through this publicly accessible database. The majority of our work is done using Python.
+
+### Database Storage
+To store our data we created a database in pgAdmin with our exported csv file that were cleaned in Pandas. We will use postgreSQL to merge tables with our desired columns to run through our machine learning algorithm. We also use Heroku to host our data in a cloud based platform. 
+
+### Machine Learning
+We will use the SciKitLearn library for our machine learning model, for encoding, and for splitting our testing and training data sets. We will use a supervised machine learning algorithim to predict box office performance of upcoming movies. We will use 70% of our data to train the model, and 30% as our test data to validate our models performance. All categorical variables will have been encoded either by using an encoding dictionary or through One Hot Encoding, and quantitative data scaled before running the model. 
+
+### Dashboard
+We will create a Tableau Dashboard to display our data and it's results. Tableau allows us to create visually compelling graphs, charts, and maps of our data. 
+
+## Database
+At this stage we made a few changes to match the scope of the project. We switched form GCP to Heroku based on the size of the data and to eliminate any potential cost of resources. We also made changes to the ERD based on further data cleaning. The actor, director, and studio popularity scores were averaged for each movie before being added to the database. In the previous iteration each actor, director, or studio was listed for each movie. This caused many duplicates to be created when joining tables in postgresql. By taking the averages we are able to get better comparisons in our ML models and have more rows to store data in Heroku. The Heroku database is called in the ML models using SQLAlchemy, although some the notebooks are using CSVs to for testing purposes. However, the database is ready to be called at any time by any team member.
+
+#### ERD:
+Updated ERD with mean data:
+![](Images/DBD_2.PNG)
+
+#### Heroku:
+Heroku DB for storage:
+![](Images/Heroku.PNG)
+
+#### PostgreSQL:
+Merge of current tables with mean data:
+![](Images/mean_join.PNG)
+
+#### SQLalchemy conection in ML models:
+Connecting ML Models to the Database:
+![](Images/SQLalchemy.PNG)
+
+#### Overview:
+For our project we will be using the Google Cloud Platform to warehouse our data and PostgresSQL to interact with it.
+
+#### ERD:
+In this process we created an ERD based from the tables we would like to use. 
+![](Images/DBD_1.PNG)
+
+#### GCP:
+We then created an instance in GCP that is connected to PostgreSQL.
+![](Images/GCP.PNG)
+
+#### PostgreSQL:
+Once the server was connected to PostgreSQL, a new database was created. A schema was then added and csv files from the API jupyter notebooks were loaded to them. The schema.sql file can be found in the Queries folder. Other team members now have access to the database through GCP.
+![](Images/schema.PNG)
+
+![](Images/postgres.PNG)
+
 ### Machine Learning Specifics
 ##### Preprocessing
 1. To preprocess the data, first we grouped the actors each by their respective movies using movie_id, then averaged the popularity score of those actors in each movie to get one composite popularity score. We then repeated this process for the directors.
