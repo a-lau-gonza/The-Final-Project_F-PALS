@@ -3,7 +3,7 @@ For our final project we will be using machine learning on past, present, and fu
 
 Our presentation on __*Google Slides*__ can be found with either the above link or __[HERE](https://docs.google.com/presentation/d/1K_GDT5Z9gXgQocvto1T3PfcPokiHEzsp4WKGlrQmI7w/edit?usp=sharing).__
 
-The Tableau dashboard can be found with the link __[HERE]().__
+The Tableau dashboard can be found with the link __[HERE](https://public.tableau.com/app/profile/freddie.cunha/viz/BoxOfficeAnalysis_16389287286030/BoxOfficeAnalysis?publish=yes).__
 
 ## __Profitibility of Movies Through Machine Learning__
 ### Why did we pick movies? And what are we hoping to answer?
@@ -117,11 +117,31 @@ Our accuracy scores ranged from 50% to 85% in the machine learning. It was purel
 ![image](https://user-images.githubusercontent.com/83510059/143798790-78d1fe21-6c8a-4e8a-99a4-0e86ff839544.png)
 
 ## Segment Roles:
-* __*Andrew*__: Square --> Square --> Square
-* __*Freddie*__: Triangle --> Circle --> Triangle
-* __*Sean*__: Circle --> Triangle --> X
-* __*Peter*__: X --> X --> Circle
-* __*Lanisha*__: Circle --> 
+For our project, we worked together almost daily. This resulted in much overlap from the specific named roles noted in the module and rubric in order to help each other out.
+
+__*Andrew*__:
+1. Square: Mainly responsible for GitHub/Assisted in Machine Learning Preprocessing and Model Choice
+2. Square: 
+3. Square: 
+4. Square: 
+__*Freddie*__: 
+1. Triangle: Responsible for Machine Learning/Assisted in Database 
+2. Circle: 
+3. Triangle: 
+4. :
+__*Sean*__: 
+1. Circle: Database
+2. Triangle: 
+3. X: 
+4. :
+__*Peter*__: 
+1. X: 
+2. X: 
+3. Circle: 
+4. :
+__*Lanisha*__: 
+1. Circle
+2. 
 
 ## Segment Notes
 ### Segment 1
